@@ -5,6 +5,8 @@ A curated list of awesome resources on Thermodynamics
 
 ## Software
 
+* ThermoSolver -- a software that allows students to perform complex thermodynamics calculations, and explore thermodynamics for systems which would be impossible to solve without a significant investment in programming -- http://cbee.oregonstate.edu/education/Thermosolver/
+
 ### Commercial
 
 ### Free
