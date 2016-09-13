@@ -3,6 +3,12 @@ A curated list of awesome resources on Thermodynamics
 
 ## Courses
 
+### texts
+
+### codes
+
+* PyTherm -- minimalist python source code for educational thermodynamics -- https://github.com/iurisegtovich/PyTherm
+
 ## Software
 
 * ThermoSolver -- a software that allows students to perform complex thermodynamics calculations, and explore thermodynamics for systems which would be impossible to solve without a significant investment in programming -- http://cbee.oregonstate.edu/education/Thermosolver/
@@ -12,6 +18,8 @@ A curated list of awesome resources on Thermodynamics
 ### Free
 
 ### Open source
+
+
 
 ## Books
 
