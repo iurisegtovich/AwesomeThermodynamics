@@ -11,6 +11,8 @@ A curated list of awesome resources on Thermodynamics
 
 ## Software
 
+* iiSE-web, primeiro simulador de processos completo que pode ser executado diretamente de um navegador. Diversos modelos termodinâmicos, dados de substâncias, opções de regras de mistura, etc. estão disponíveis. --  http://lvpp.nuvem.ufrgs.br:8080/ para rodar simulações dentro do navegador, sem instalar nada. !!!translate me
+
 * ThermoSolver -- a software that allows students to perform complex thermodynamics calculations, and explore thermodynamics for systems which would be impossible to solve without a significant investment in programming -- http://cbee.oregonstate.edu/education/Thermosolver/
 
 * PE 2000 for Windows -- --
