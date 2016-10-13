@@ -36,7 +36,7 @@ A curated list of awesome resources on Thermodynamics
 
 * [CalebBell/thermo](https://github.com/CalebBell/thermo)
   * thermo: Chemical properties component of Chemical Engineering Design Library (ChEDL)
-   * thermo is open-source software for engineers, scientists, technicians and anyone trying to understand the universe in more detail. It facilitates the retrieval of constants of chemicals, the calculation of temperature and pressure dependent chemical properties (both thermodynamic and transport), the calculation of the same for chemical mixtures (including phase equilibria), and assorted information of a regulatory or legal nature about chemicals.
+    * thermo is open-source software for engineers, scientists, technicians and anyone trying to understand the universe in more detail. It facilitates the retrieval of constants of chemicals, the calculation of temperature and pressure dependent chemical properties (both thermodynamic and transport), the calculation of the same for chemical mixtures (including phase equilibria), and assorted information of a regulatory or legal nature about chemicals.
    
 * [cantera](https://github.com/Cantera/cantera)
   * Chemical kinetics, thermodynamics, and transport tool suite
@@ -51,8 +51,8 @@ A curated list of awesome resources on Thermodynamics
     >- Model non-ideal fluids
 
 * [coolprop](http://www.coolprop.org)
- * Thermophysical properties for the masses
-  * CoolProp is a thermophysical property database and wrappers for a selection of programming environments. It offers similar functionality to REFPROP, but CoolProp is open-source and free. It was originally developed by Ian Bell, currently a post-doc at the University of Liege, in Liege, Belgium.
+  * Thermophysical properties for the masses
+    * CoolProp is a thermophysical property database and wrappers for a selection of programming environments. It offers similar functionality to REFPROP, but CoolProp is open-source and free. It was originally developed by Ian Bell, currently a post-doc at the University of Liege, in Liege, Belgium.
   
 ## Books
 
