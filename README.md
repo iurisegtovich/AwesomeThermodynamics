@@ -7,13 +7,17 @@ A curated list of awesome resources on Thermodynamics
 
 ### codes
 
-* FOSSEE (Free and Open Source Software in Education) / [Python-Textbook-Companions](https://github.com/FOSSEE/Python-Textbook-Companions)
-  * The Textbook Companion activity aims to create a repository of reference material for Python by coding solved examples of standard engineering textbooks using Python. This activity intends to,
-  >- Make individuals learn Python through a practical approach
-  >- Provide a huge database of Companions as a learning resource
-  >- To make it easy for users of such textbooks to start using Python.
-  >- To improve the documentation available for Python
-
+* FOSSEE (Free and Open Source Software in Education) Textbook Companions
+  * in [python](https://github.com/FOSSEE/Python-Textbook-Companions)
+    * The Textbook Companion activity aims to create a repository of reference material for Python by coding solved examples of standard engineering textbooks using Python. This activity intends to,
+    
+    >* Make individuals learn Python through a practical approach
+    >* Provide a huge database of Companions as a learning resource
+    >* To make it easy for users of such textbooks to start using Python.
+    >* To improve the documentation available for Python
+  
+  * in [DWSIM](https://github.com/FOSSEE/DWSIM-Textbook-Companions)
+  
 * [PyTherm](https://github.com/iurisegtovich/PyTherm)
  * python source code for educational thermodynamics
 
