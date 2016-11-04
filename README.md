@@ -7,15 +7,17 @@ A curated list of awesome resources on Thermodynamics
 
 |[ATOMS](http://atoms.peq.coppe.ufrj.br/)|<img src=FIGs/atoms-logo.png height=50>|
 |---|---|
-
-
-* Applied Thermodynamics and Molecular Simulation
+> **Applied Thermodynamics and Molecular Simulation**
+>
 > "ATOMS is a research group dedicated to the development of theoretical, experimental, and computational tools in the fields of classical and statistical thermodynamics, and to the application of these tools to the solution of problems of both academic and industrial interest.
 > The group congregates professors, researchers, and students of two academic units of the Federal University of Rio de Janeiro (UFRJ), Brazil:
 >- The School of Chemistry (Escola de Quimica), which has undergraduate programs in Chemical Engineering, Bioprocess Engineering, Food Engineering, and Industrial Chemistry, as well as a graduate program in Chemical & Biochemical Process Technology (TPQB).
 >- The Alberto Luiz Coimbra Institute for Graduate Studies (COPPE), which coordinates several graduate programs in engineering, including the Chemical Engineering Program (PEQ).
 
-* [WMD](https://wmd-group.github.io/) - Materials Design Group, Research group in computational chemistry & physics at Imperial College London
+|[WMD](https://wmd-group.github.io/)|<img src=FIGs/wmd-logo.png height=50>|
+|---|---|
+> **Materials Design Group, Research group in computational chemistry & physics at Imperial College London**
+>
 > We are an academic research group focused on the atomistic modelling and the electronic structure of materials. Our interests cover dielectric, semiconducting and metallic compounds including temperature, defects and disorder. We are based at Imperial College London (UK), with a satellite laboratory at Yonsei University (South Korea).
 
 ### Process simulation (introduce some companies here, see software below)
@@ -199,8 +201,9 @@ A curated list of awesome resources on Thermodynamics
 
 |[Phasety](http://phasety.com)|<img src=FIGs/phasety-logo.png height=50>|
 |---|---|
+>**Software and consulting in thermodynamics for the oil and chemical industries.**
+>
 
-> "Software and consulting in thermodynamics for the oil and chemical industries."
   * [Phasety' Fluids](http://phasety.com/7/projects/fluids-36/)
   > *"Fluids is dedicated to calculation and display of envelopes flash separation stages and multicomponent synthetic fluids, in addition to administration of the corresponding experimental data.
 The thermodynamic models behavior of mixtures of state equations based hydrocarbons are used in the oil industry in a number of areas and activities. A modeling adequate to ensure good predictive ability correlated well requires careful characterization of heavy ends on which there is a thorough understanding of its composition. But also requires a good description of the behavior of synthetic fluids, unlike the actual reservoir fluids represent a perfectly known to be prepared in laboratory composition."*
