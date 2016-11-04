@@ -5,7 +5,9 @@ A curated list of awesome resources on Thermodynamics
 
 ### Research Groups
 
-* [ATOMS](http://atoms.peq.coppe.ufrj.br/) - Applied Thermodynamics and Molecular Simulation
+|[ATOMS](http://atoms.peq.coppe.ufrj.br/)|![atoms-logo](FIGs/atoms-logo.png)|
+|---|---|
+* Applied Thermodynamics and Molecular Simulation
 > "ATOMS is a research group dedicated to the development of theoretical, experimental, and computational tools in the fields of classical and statistical thermodynamics, and to the application of these tools to the solution of problems of both academic and industrial interest.
 > The group congregates professors, researchers, and students of two academic units of the Federal University of Rio de Janeiro (UFRJ), Brazil:
 >- The School of Chemistry (Escola de Quimica), which has undergraduate programs in Chemical Engineering, Bioprocess Engineering, Food Engineering, and Industrial Chemistry, as well as a graduate program in Chemical & Biochemical Process Technology (TPQB).
