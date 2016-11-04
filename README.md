@@ -3,6 +3,17 @@ A curated list of awesome resources on Thermodynamics
 
 ## Listing of Companies and Research Groups
 
+### Research Groups
+
+* [ATOMS](http://atoms.peq.coppe.ufrj.br/) - Applied Thermodynamics and Molecular Simulation
+> "ATOMS is a research group dedicated to the development of theoretical, experimental, and computational tools in the fields of classical and statistical thermodynamics, and to the application of these tools to the solution of problems of both academic and industrial interest.
+> The group congregates professors, researchers, and students of two academic units of the Federal University of Rio de Janeiro (UFRJ), Brazil:
+>- The School of Chemistry (Escola de Quimica), which has undergraduate programs in Chemical Engineering, Bioprocess Engineering, Food Engineering, and Industrial Chemistry, as well as a graduate program in Chemical & Biochemical Process Technology (TPQB).
+>- The Alberto Luiz Coimbra Institute for Graduate Studies (COPPE), which coordinates several graduate programs in engineering, including the Chemical Engineering Program (PEQ).
+
+* [WMD](https://wmd-group.github.io/) - Materials Design Group, Research group in computational chemistry & physics at Imperial College London
+> We are an academic research group focused on the atomistic modelling and the electronic structure of materials. Our interests cover dielectric, semiconducting and metallic compounds including temperature, defects and disorder. We are based at Imperial College London (UK), with a satellite laboratory at Yonsei University (South Korea).
+
 ### Process simulation (introduce some companies here, see software below)
 
 * CO-LAN
@@ -15,6 +26,8 @@ A curated list of awesome resources on Thermodynamics
   > See [*dissemination of university research through cape open*](http://www.colan.org/techpapers/dissemination-of-university-research-through-cape-open/), \*"ThermoSystem 4.0" [\*](XXX no webpage found, CAPE-OPEN compatible library for thermodynamic models and unit operations using 	presented in "Maribo-Mogensen, G. M. Kontogeorgis, K. Thomsen, Development of a CAPE-OPEN compatible library for thermodynamic models and unit operations using .NET, 8th European Conference of Chemical Engineering, Berlin, 2011, 26-29 September)
 
 ### Databases
+* NIST: http://webbook.nist.gov/chemistry/
+* DECHEMA: https://dechema.de/en/
 
 * Recommendations by
   * Case: http://researchguides.case.edu/chemicalengineering
@@ -41,6 +54,7 @@ A curated list of awesome resources on Thermodynamics
   * Kentucky: http://libguides.uky.edu/cme
   * Michigan: http://guides.lib.umich.edu/c.php?g=282881&p=1884980
   * UCR: https://library.ucr.edu/research-services/subject-guides/chemical-engineering-subject-guide
+  * by Arnold Neumaier at univie: http://www.mat.univie.ac.at/~neum/thermo.html
 
   **Overview, conclusion, final considerations?**
 
@@ -57,6 +71,10 @@ A curated list of awesome resources on Thermodynamics
 >
 > "We’re **supporting a community where more than 15 million people learn, share, and work together to build software**." [@github/about](https://github.com/about)
 
+* [GitLab](https://gitlab.com/)
+
+* [OpenHub](https://www.openhub.net/)
+
 ## Listing of Courses with online availability (courses covering topics in thermodynamics)
 
 ### texts (text of such courses in the form of pdf files, slideshow presentations, videolectures, etc... )
@@ -69,14 +87,15 @@ A curated list of awesome resources on Thermodynamics
   > in Scilab, Python, eSim, OpenFOAM, OR-Tools and DWSIM
   >-  source codes at [GitHub/FOSSEE](https://github.com/FOSSEE)
 
-* [PyTherm](https://github.com/iurisegtovich/PyTherm)
-> "Python source code for educational thermodynamics"
->
-> (in jupyter notebook format)
+* [PyTherm](https://github.com/iurisegtovich/PyTherm) - Python source code for educational thermodynamics
+> Our goal is to curate and develop educational material on applied thermodynamics using modern programming languages (e.g. python, julia) and modern (in jupyter notebook format).
+>- Develop study material for beginners in thermodynamics and in programming / scientific computing.
+>- Publish well documented and open source implementations of topics of interest in thermodynamics for intermediate level students in thermodynamics and in programming / scientific computing, with complete reference to original journal or textbook publications.
+>- Develop research level packages for advanced level graduate students and researchers, in subtopics of applied thermodynamics that are missing in open source community.
 
 * [github/mgaitan/scientific python course] [\*](XXX, write/quote description)
 
-## Listing of released and maintained Software, including commercial, free and open source itens.
+## Listing of released and maintained Software, including commercial, free and open source itens. (Including: calculation of thermodynamic properties, process simulation and general purpose system modelling)
 
 ### Commercial
 
@@ -145,10 +164,37 @@ A curated list of awesome resources on Thermodynamics
 
 * Xchanger Suite
 
+* Reaction Design' [CHEMKIN](http://www.reactiondesign.com/products/chemkin/)
+> This is a proprietary software tool for solving complex chemical kinetics problems. It is used worldwide in the combustion, chemical processing, microelectronics and automotive industries, and also in atmospheric science.
+>
+> See [Reaction Design](http://www.reactiondesign.com/)
+
+* VMG(http://www.virtualmaterials.com/)
+> VMG is a worldwide team of engineers and experts in process simulation software for the oil and gas industry.
+
+  * VMGSim
+  > "Our flagship product; VMGSim is a world-class, rigorous and comprehensive steady-state process simulator developed with an integrated flowsheet design in a user-friendly, modern environment."
+
+  * VMGThermo
+  > "Used for over a decade by the oil and gas industry, VMGThermo is an accurate predictor of phase equilibria and physical properties for a variety of mixtures."
+
+  * VMGSim Dynamics
+  > "VMGSim Dynamics provides world class dynamic features and user friendliness in a unified life cycle environment, while reducing software costs and making dynamic simulation affordable to companies in the process industries."
+
+  * VMG Gasmod
+  > "  In one stand-alone model, it is possible to simulate complex gathering systems (including items such as flow splitting and line looping) with or without liquids, vertical/horizontal wells, 3D gridded reservoirs and/or simple tanks."
+
+* [NIST' RefProp](https://www.nist.gov/srd/refprop) - NIST Reference Fluid Thermodynamic and Transport Properties Database
+> "REFPROP is a Program, not a Database Containing Measurements. The REFPROP "database" is actually a program and does not contain any experimental information, aside from the critical and triple points of the pure fluids.
+[from the FAQ:] The program uses equations for the thermodynamic and transport properties to calculate the state points of the fluid or mixture. These equations are the most accurate equations available world wide. A link to one of these equations for R-125 is given below. Their high accuracy is obtained through many coefficients in the equations, and thus the calculation speed will be slower than other equations such as the Peng-Robinson cubic equations. The equations are generally valid over the entire vapor and liquid regions of the fluid, including supercritical states; the upper temperature limit is usually near the point of decomposition of the fluid, and the upper pressure (or density) limit is defined by the melting line of the substance." [@ univie / Arnold Neumaier](http://www.mat.univie.ac.at/~neum/thermo.html)
+>
+> See also [BenThelen' python-refprop](https://github.com/BenThelen/python-refprop)
+>-	Python (3.x & 2.x) API for NIST Standard Reference Database 23 (a.k.a. Refprop) on Linux and Windows
+
 ### Free (check commercial / academic usage restrictions)
 
 * [Phasety](http://phasety.com)
-
+> "Software and consulting in thermodynamics for the oil and chemical industries."
   * [Phasety' Fluids](http://phasety.com/7/projects/fluids-36/)
   > *"Fluids is dedicated to calculation and display of envelopes flash separation stages and multicomponent synthetic fluids, in addition to administration of the corresponding experimental data.
 The thermodynamic models behavior of mixtures of state equations based hydrocarbons are used in the oil industry in a number of areas and activities. A modeling adequate to ensure good predictive ability correlated well requires careful characterization of heavy ends on which there is a thorough understanding of its composition. But also requires a good description of the behavior of synthetic fluids, unlike the actual reservoir fluids represent a perfectly known to be prepared in laboratory composition."*
@@ -187,6 +233,27 @@ The thermodynamic models behavior of mixtures of state equations based hydrocarb
 
 * [COCO](http://www.cocosimulator.org/) - (CAPE-OPEN to CAPE-OPEN)
 > COCO is a free-of-charge CAPE-OPEN compliant steady-state simulation environment. amsterCHEM authors and maintains the COCO.
+
+[asimptote' fluidprop](http://www.asimptote.nl/software/fluidprop)
+> FluidProp is the ultimate thermodynamic property library. It lets you compute the thermodynamic and transport properties, like enthalpy, entropy, speed of sound, and many others. These properties are computed using the latest physical models and are therefore highly accurate and predictive. FluidProp includes models that provide:
+>- accurate properties close to the critical point,
+>- direct computation of the critical point of mixtures,
+>- advanced and efficient algorithms for phase equilibria.
+>
+> See [Asimptote](http://www.asimptote.nl)
+>
+> See pricing for [Add-ons](http://www.asimptote.nl/webshop/category/1/FluidProp/)
+
+* [ThermoSolver](http://cbee.oregonstate.edu/education/Thermosolver/)
+> A software that allows students to perform complex thermodynamics calculations, and explore thermodynamics for systems which would be impossible to solve without a significant investment in programming
+
+* [PE 2000](https://www.tuhh.de/v8/downloads/pe-2000.html) - A Powerful Tool to Correlate Phase Equilibria (by Oliver Pfohl, Stanimir Petkov, and Gerd Brunner)
+> "PE offers subroutines to determine EOS pure-component parameters based on pure-component vapor pressures and densities at saturation conditions. Graphical output routines allow a visual comparison of experimental and calculated data of the vapor pressure curve and PvT data.
+> A useful feature when correlating phase equilibria related to gas-extraction processes is the possibility to enforce pure-component EOS parameters that reproduce the critical temperature and pressure of the supercritical solvent during the pure-component EOS parameter optimization.
+> PE offers subroutines to determine optimum binary interaction parameters for all EOS in order to reproduce the phase behavior of binary and ternary systems with a given set of EOS and mixing rule, best. Further, PE offers the possibility to calculate phase equilibria and densities with given interaction parameters at any conditions. Graphical output routines provide plots of the miscibility gaps in binary and ternary systems in a quality suitable for publications."
+
+* [checalc](http://checalc.com/)
+> Chemical engineering calculations as **web applications** to assist process, plant operation and maintenance engineers.
 
 ### Open source
 
@@ -364,47 +431,68 @@ ClaRa, developed by TLK and XRG Simulation, is an open source software library o
 >
 > Source at [GitHub/jamesorr]([jamesorr/mocsy](https://github.com/jamesorr/mocsy)). See usage examples in jupyter notebook format [there](https://github.com/jamesorr/mocsy/blob/master/examples/mocsy_examples.ipynb)
 
-### ...uncategorized... [\*](XXX, categorize them all)
+* [pycalphad](https://pycalphad.org/)
+> "CALPHAD tools for designing thermodynamic models, calculating phase diagrams and investigating phase equilibria.
+>
+> has jupyter notebooks [there](https://github.com/pycalphad/pycalphad/tree/develop/examples)
+>- Calculating Isobaric Binary Phase Diagrams
+>- Al-Zn (S. Mey, 1993)
+>- Al-Fe (M.Seiersten et al., 1991)
+>- Al-Ni (Work in progress) (N. Dupin et al., 2001)
+>- Nb-Re (X. L. Liu et al., 2013)
+>- Calculating Energy Surfaces of Binary Systems
+>- Equilibrium Properties and Partial Ordering (Al-Fe and Al-Ni)
+>- Thermodynamic Calculation of Cementite (Fe3CFe3C)
+>- Al-Fe (Heat Capacity and Degree of Ordering)
+>- Al-Ni (Degree of Ordering)"
+>
+> source code at [GitHub / PyCalPhad](https://github.com/pycalphad/pycalphad)
 
-* giorgidze/Hydra
+* [opencalphad](http://www.opencalphad.org/)
+> "OpenCalphad is an informal international collaboration of scientists and researchers interested in the development of high quality software and databases for thermodynamic calculations for all kinds of applications.
+>- develop more fundamental models to incorporate results from DFT calculations
+>
+> Source code at [GitHub / Bo Sundman](https://github.com/sundmanbo/opencalphad)
 
-* http://ascend4.org/Main_Page
+* [Hydra](https://github.com/giorgidze/Hydra)
+> "Hydra is a high level, declarative language for modelling and simulation of
+physical systems. Systems in Hydra are being modelled using implicitly
+formulated (undirected) Differential Algebraic Equations (DAEs). While,
+physical modelling is our main focus any domain is fine where problems can be
+formulated using DAEs."
+>
+> Source code at [GitHub / giorgidze](https://github.com/giorgidze/Hydra)
 
-* CHEMKIN is a proprietary software tool for solving complex chemical kinetics problems. It is used worldwide in the combustion, chemical processing, microelectronics [citation needed] and automotive [citation needed] industries, and also in atmospheric science.
+ * [modelyze](http://www.modelyze.org/)
+ > Modelyze (MODEl and anaLYZE) is a host language designed for modeling and analysis of cyber-physical systems (CPS). Modelyze is not a modeling language itself, but a host language where domain-specific languages (DSLs) can be embedded. It has been tested and evaluated on equation-based object-oriented DSLs, used for modeling of physical systems.
+ >
+ > Source code at [GitHub / David Broman](https://github.com/david-broman/modelyze)
 
-* ThermoSolver -- a software that allows students to perform complex thermodynamics calculations, and explore thermodynamics for systems which would be impossible to solve without a significant investment in programming -- http://cbee.oregonstate.edu/education/Thermosolver/
+ * [Ascend](http://ascend4.org/Main_Page)
+ > ASCEND is a free open-source software program for solving small to very large mathematical models. ASCEND can solve systems of non-linear equations, linear and nonlinear optimisation problems, and dynamic systems expressed in the form of differential/algebraic equations.
+ >
+ > Source code at [Sourceforge / Ascend](https://sourceforge.net/projects/ascend-sim/files/)
 
-* PE 2000 for Windows -- --
- * by Oliver Pfohl, Stanimir Petkov, and Gerd Brunner
-  * https://www.tuhh.de/v8/downloads/pe-2000/download.html
+ * [OPM](http://opm-project.org/) - **O** pen **P** orous **M** edia
+ > The OPM initiative encourages open innovation and reproducible research for modeling and simulation of porous media processes.
+ > Provides thermodynamic relations, capillary pressure curves, etc.
+ >
+ > Source code at [GitHub / OPM](https://github.com/OPM/opm-material)
 
-* checalc -- Chemical engineering calculations as web applications to assist process, plant operation and maintenance engineers. -- http://checalc.com/
-
-* VMG -- -- http://www.virtualmaterials.com/
- * VMG is a worldwide team of engineers and experts in process simulation software for the oil and gas industry.
-
- * OPM/opm-material
- >	Provides thermodynamic relations, capillary pressure curves, etc.	Pengrobinson		"software;
-release;"		"phaseequilibria;
-eos;
-thermodynamicproperties;
-porousmedia;"
-
-* WMD-group/CZTS-model	https://github.com/WMD-group/CZTS-model	Thermodynamic modelling of Cu2ZnSnS4 (CZTS) phase equilibria	Research data and calculations for ab initio thermodynamic modelling of the formation and decomposition of Cu2ZnSnS4(CZTS).	python	"software;
-release;"	opensource;	"phaseequilibria;
-metallurgy;
-abinitio;"
-
-FluidProp	x	more than 1.000 downloads of the free version per year, FluidProp is probably one of the most popular software packages for thermodynamic calculations.				freemium;
-
-BenThelen/python-refprop	x	Python (3.x & 2.x) API for NIST Standard Reference Database 23 (a.k.a. Refprop) on Linux and Windows		RefProp		opensource;
-RefProp	x	 https://www.nist.gov/srd/refprop				commercial
+ * [DUMUx](http://dumux.org/)
+ > DuMux, DUNE for Multi-{Phase, Component, Scale, Physics, ...} flow and transport in porous media, is a free and open-source simulator for flow and transport processes in porous media. It is based on the Distributed and Unified Numerics Environment DUNE. Its main intention is to provide a sustainable and consistent framework for the implementation and application of porous media model concepts and constitutive relations. It has been successfully applied to CO2 storage scenarios, environmental remediation problems, transport of therapeutic agents through biological tissue, and subsurface-atmosphere coupling. The development of DuMux started in January 2007 at the University of Stuttgart.
+ >
+ > Source code at uni-stuttgart, see [here](http://dumux.org/download.php)
 
 ## Books
 
+### Recommended / Best reviewed
+
+### free-of-charge
+
 ## Reviews
 
-## Comparative assessment
+## Comparative assessments
 
 ## Sample Codes (open source codes that do not characterize a *release* project/software, but might be usefull for reference or branching)
 
