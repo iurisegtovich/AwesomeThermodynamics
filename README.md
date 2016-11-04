@@ -197,7 +197,7 @@ A curated list of awesome resources on Thermodynamics
 
 ### Free (check commercial / academic usage restrictions)
 
-|[Phasety](http://phasety.com)|<img src=FIGs/phasety-logo.png height=50>||
+|[Phasety](http://phasety.com)|<img src=FIGs/phasety-logo.png height=50>|
 |---|---|
 
 > "Software and consulting in thermodynamics for the oil and chemical industries."
