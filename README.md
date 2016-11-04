@@ -27,20 +27,28 @@ A curated list of awesome resources on Thermodynamics
 
 ### Process simulation (introduce some companies here, see software below)
 
-|CO-LaN|<img src=FIGs/colan-logo.png height=50>|
+|[CO-LaN](http://www.colan.org/)|<img src=FIGs/colan-logo.png height=50>|
 |---|---|
 > **CO-LaN is the organization for the management of the CAPE-OPEN standard**
 >
 
-* [CERE](http://www.cere.dtu.dk/) - Center for Energy Resources Engineering
+|[CERE](http://www.cere.dtu.dk/)|<img src=FIGs/dtu-logo.png height=50><img src=FIGs/cere-logo.png height=50>|
+|---|---|
+>**TECHNICAL UNIVERSITY OF DENMARK - Center for Energy Resources Engineering**
+
   * [CHIGP](http://www.chigp.dk/) - Chemicals in Gas Processing
   > CHIGP is a joint industry project for the development of the CPA (Cubic-Plus-Association) equation of state for systems of relevance to the oil & gas and chemical industries.
   >
   > See [*dissemination of university research through cape open*](http://www.colan.org/techpapers/dissemination-of-university-research-through-cape-open/), \*"ThermoSystem 4.0" [\*](XXX no webpage found, CAPE-OPEN compatible library for thermodynamic models and unit operations using 	presented in "Maribo-Mogensen, G. M. Kontogeorgis, K. Thomsen, Development of a CAPE-OPEN compatible library for thermodynamic models and unit operations using .NET, 8th European Conference of Chemical Engineering, Berlin, 2011, 26-29 September)
 
 ### Databases
-* NIST: http://webbook.nist.gov/chemistry/
-* DECHEMA: https://dechema.de/en/
+|[NIST](http://webbook.nist.gov/chemistry/)|<img src=FIGs/nist-logo.png height=50>|
+|---|---|
+>**National Institute of Standards and Technology**
+
+|[DECHEMA](https://dechema.de/en/)|<img src=FIGs/dechema-logo.png height=50>|
+|---|---|
+>**DECHEMA**
 
 * Recommendations by
   * Case: http://researchguides.case.edu/chemicalengineering
@@ -76,17 +84,27 @@ A curated list of awesome resources on Thermodynamics
 > The **[Open source Initiative](https://opensource.org/)** :
 >  * "We are the stewards of the Open Source Definition (OSD) and the community-recognized body for reviewing and approving licenses as OSD-conformant." [@opensourceinitiative/about](https://opensource.org/about)
 
-* [FOSSEE](http://fossee.in/) - Free and Open Source Software for Education
+|[FOSSEE](http://fossee.in/)|<img src=FIGs/fossee-logo.png height=50>|
+|---|---|
+>**Free and Open Source Software for Education**
+>
 > "FOSSEE (Free and Open Software in Education) project **promotes the use of FOSS tools to improve the quality of education** in our country. We aim to reduce dependency on proprietary software in educational institutions. We encourage the use of FOSS tools through various activities to ensure commercial software is replaced by equivalent FOSS tools. We also develop new FOSS tools and upgrade existing tools to meet requirements in academia and research. The FOSSEE project is part of the National Mission on Education through Information and Communication Technology (ICT), Ministry of Human Resources and Development, Government of India." [@fossee/about](http://fossee.in/about-us)
 
-* [GitHub](https://github.com/)
+|[GitHub](https://github.com/)|<img src=FIGs/github-logo.png height=50>|
+|---|---|
+>**GitHub**
+>
 > "GitHub is **a web-based Git repository hosting service**. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project."[@wikipedia/github](https://en.wikipedia.org/wiki/GitHub)
 >
 > "We’re **supporting a community where more than 15 million people learn, share, and work together to build software**." [@github/about](https://github.com/about)
 
-* [GitLab](https://gitlab.com/)
+|[GitLab](https://gitlab.com/)|<img src=FIGs/gitlab-logo.png height=50>|
+|---|---|
+>**GitLab**
 
-* [OpenHub](https://www.openhub.net/)
+|[OpenHub](https://www.openhub.net/)|<img src=FIGs/openhub-logo.png height=50>|
+|---|---|
+>**OpenHub**
 
 ## Listing of Courses with online availability (courses covering topics in thermodynamics)
 
@@ -100,19 +118,27 @@ A curated list of awesome resources on Thermodynamics
   > in Scilab, Python, eSim, OpenFOAM, OR-Tools and DWSIM
   >-  source codes at [GitHub/FOSSEE](https://github.com/FOSSEE)
 
-* [PyTherm](https://github.com/iurisegtovich/PyTherm) - Python source code for educational thermodynamics
+* [PyTherm](https://github.com/iurisegtovich/PyTherm) - Educational Python source code for scientific computing in applied thermodynamics.
 > Our goal is to curate and develop educational material on applied thermodynamics using modern programming languages (e.g. python, julia) and modern (in jupyter notebook format).
 >- Develop study material for beginners in thermodynamics and in programming / scientific computing.
 >- Publish well documented and open source implementations of topics of interest in thermodynamics for intermediate level students in thermodynamics and in programming / scientific computing, with complete reference to original journal or textbook publications.
 >- Develop research level packages for advanced level graduate students and researchers, in subtopics of applied thermodynamics that are missing in open source community.
 
-* [github/mgaitan/scientific python course] [\*](XXX, write/quote description)
+#### More scientific computing with python
+
+* [by mgaitan](https://github.com/mgaitan/curso-python-cientifico)
+> "Un curso de Python orientado a estudiantes, investigadores y profesionales de ingeniería y ciencias." (en español (Córdoba))
+
+* [by Robert Johansson](https://github.com/jrjohansson/scientific-python-lectures)
+> "A set of lectures on scientific computing with Python, using IPython notebooks."
 
 ## Listing of released and maintained Software, including commercial, free and open source itens. (Including: calculation of thermodynamic properties, process simulation and general purpose system modelling)
 
 ### Commercial
 
-* [TLK-Thermo GmbH](https://www.tlk-thermo.com/index.php/en/) -
+|[TLK-Thermo GmbH](https://www.tlk-thermo.com/index.php/en/)|<img src=FIGs/tlkthermo-logo.png height=50>|
+|---|---|
+>**TLK-Thermo GmbH**
 > TLK-Thermo GmbH offers platform independent software products. We have a broad range of software related to physical modeling and simulation, interoperability between different programs as well as visualization software for both measurement and simulation data.
 
   * [TIL Suite](https://www.tlk-thermo.com/index.php/en/software-products/til-suite) – Simulates thermal systems
@@ -133,56 +159,104 @@ A curated list of awesome resources on Thermodynamics
   * [ClaRa](https://www.tlk-thermo.com/index.php/en/software-products/clara) – Simulation of **Cla** usius - **Ra** nkine cycles
   > ClaRa, developed by TLK and XRG Simulation, is an open source software library of power plant components programmed in the modeling language Modelica which enables the user to simulate the dynamic behavior of power plants and to answer current questions about power plant operation. Please learn more about ClaRa and download the library for free on the official website.
 
-* aspen properties
+  |             |<img src=FIGs/                    -logo.png height=50>|
+  |---|---|
+* aspen properties [\*](xxx)
 
-* PPDS
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* PPDS [\*](xxx)
 
-* UNISIM COMthermo
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* UNISIM COMthermo [\*](xxx)
 
-* Apen HySys COMthermo
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* Apen HySys COMthermo [\*](xxx)
 
-* Simulis thermodynamics
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* Simulis thermodynamics [\*](xxx)
 
-* MultiFlash
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* MultiFlash [\*](xxx)
 
-* CO-SPPTS
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* CO-SPPTS [\*](xxx)
 
-* TEA
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* TEA [\*](xxx)
 
-* GERG2004
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* GERG2004 [\*](xxx)
 
-* Aspen Plus
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* Aspen Plus [\*](xxx)
 
-* Aspen Hysys
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* Aspen Hysys [\*](xxx)
 
-* ChemCad
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* ChemCad [\*](xxx)
 
-* COFE
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* COFE [\*](xxx)
 
-* COMSOL
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* COMSOL [\*](xxx)
 
-* gPROMS
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* gPROMS [\*](xxx)
 
-* IndissPlus
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* IndissPlus [\*](xxx)
 
-* ProSimPlus
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* ProSimPlus [\*](xxx)
 
-* PRO/II
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* PRO/II [\*](xxx)
 
-* UniSim Design
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* UniSim Design [\*](xxx)
 
-* Simulis Thermodynamics
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* Simulis Thermodynamics [\*](xxx)
 
-* TUWAX
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* TUWAX [\*](xxx)
 
-* Xchanger Suite
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
+* Xchanger Suite [\*](xxx)
 
-* Reaction Design' [CHEMKIN](http://www.reactiondesign.com/products/chemkin/)
+|Reaction Design' [CHEMKIN](http://www.reactiondesign.com/products/chemkin/)|<img src=FIGs/reactiondesign-logo.png height=50>|
+|---|---|
+>**Reaction Design' CHEMKIN**
 > This is a proprietary software tool for solving complex chemical kinetics problems. It is used worldwide in the combustion, chemical processing, microelectronics and automotive industries, and also in atmospheric science.
 >
 > See [Reaction Design](http://www.reactiondesign.com/)
 
-* VMG(http://www.virtualmaterials.com/)
+|[VMG](http://www.virtualmaterials.com/)|<img src=FIGs/vmg-logo.png height=50>|
+|---|---|
+>**VMG**
 > VMG is a worldwide team of engineers and experts in process simulation software for the oil and gas industry.
 
   * VMGSim
@@ -197,7 +271,9 @@ A curated list of awesome resources on Thermodynamics
   * VMG Gasmod
   > "  In one stand-alone model, it is possible to simulate complex gathering systems (including items such as flow splitting and line looping) with or without liquids, vertical/horizontal wells, 3D gridded reservoirs and/or simple tanks."
 
-* [NIST' RefProp](https://www.nist.gov/srd/refprop) - NIST Reference Fluid Thermodynamic and Transport Properties Database
+  |[NIST' RefProp](https://www.nist.gov/srd/refprop)|<img src=FIGs/nist-logo.png height=50>|
+  |---|---|
+>**NIST Reference Fluid Thermodynamic and Transport Properties Database**
 > "REFPROP is a Program, not a Database Containing Measurements. The REFPROP "database" is actually a program and does not contain any experimental information, aside from the critical and triple points of the pure fluids.
 [from the FAQ:] The program uses equations for the thermodynamic and transport properties to calculate the state points of the fluid or mixture. These equations are the most accurate equations available world wide. A link to one of these equations for R-125 is given below. Their high accuracy is obtained through many coefficients in the equations, and thus the calculation speed will be slower than other equations such as the Peng-Robinson cubic equations. The equations are generally valid over the entire vapor and liquid regions of the fluid, including supercritical states; the upper temperature limit is usually near the point of decomposition of the fluid, and the upper pressure (or density) limit is defined by the melting line of the substance." [@ univie / Arnold Neumaier](http://www.mat.univie.ac.at/~neum/thermo.html)
 >
@@ -218,7 +294,10 @@ The thermodynamic models behavior of mixtures of state equations based hydrocarb
   * [GPEC](http://phasety.com/7/projects/gpec/)
   > *"GPEC (Global Phase Equilibrium Calculations) is a free scientific software to obtain phase equilibrium diagrams and other thermodynamic plots for binary fluid systems, as calculated with equations of state. It can be helpful for educational, academic or development purposes. It is based on methods and algorithms developed primarily by the Phd in Chemical Engineering Martin Cismondi in collaboration with Prof. Michael Michelsen from the Technical University of Denmark and Dr. Marcelo Zabaloy from the UNS-PLAPIQUI. Until the moment, no other software is known with the same capabilities or equivalent, so GPEC has a growing community of users, in most of Europe, USA, Asia and Latin America, belonging not only to academic institutions and research, but also to industries.""*
 
-* [VR-Tech](http://vrtech.com.br/)
+|[VR-Tech](http://vrtech.com.br/)|<img src=FIGs/vrtech-logo.png height=50>|
+|---|---|
+>**VRTech**
+>
 > Home page of [iiSE](http://vrtech.com.br/iise_en) and [RecoVR](http://vrtech.com.br/en/recovr_en/). Video tutorials for usage of these are available in their youtube channel, [youtube/vrtech](https://www.youtube.com/user/vrtechbr), mostly in portuguese (BR).
 
   * [iiSE](http://vrtech.com.br/iise_en) - ( **I** ndustrial **I** ntegrated **S** imulation **E** nvironment )
@@ -242,15 +321,22 @@ The thermodynamic models behavior of mixtures of state equations based hydrocarb
   * [RecoVR](http://vrtech.com.br/en/recovr_en/)
   > "RecoVR is a tool for management of industrial water and wastewater. Using RecoVR you can minimize water use, reducing up to 50% fresh water use."
 
-* [ALSOC' EMSO](http://www.enq.ufrgs.br/trac/alsoc/wiki/EMSO) - Environment for Modeling, Simulation, and Optimization.
-  > "EMSO is a graphical environment where the user can model complex processes simply selecting and connecting the equipment models." [@UFRGS/ALSOC/EMSO](http://www.enq.ufrgs.br/trac/alsoc/wiki/EMSO)
+|[ALSOC' EMSO](http://www.enq.ufrgs.br/trac/alsoc/wiki/EMSO)|<img src=FIGs/alsoc-logo.png height=50>|
+|---|---|
+> **Environment for Modeling, Simulation, and Optimization**
+>
+> "EMSO is a graphical environment where the user can model complex processes simply selecting and connecting the equipment models." [@UFRGS/ALSOC/EMSO](http://www.enq.ufrgs.br/trac/alsoc/wiki/EMSO)
   >
   > See licensing [here](http://www.enq.ufrgs.br/trac/alsoc/wiki/Licenca) and [here](http://www.enq.ufrgs.br/trac/alsoc/wiki/EMSO)
 
-* [COCO](http://www.cocosimulator.org/) - (CAPE-OPEN to CAPE-OPEN)
+|[COCO](http://www.cocosimulator.org/)|<img src=FIGs/coco-logo.png height=50>|
+|---|---|
+> **CAPE-OPEN to CAPE-OPEN**
+>
 > COCO is a free-of-charge CAPE-OPEN compliant steady-state simulation environment. amsterCHEM authors and maintains the COCO.
 
-[asimptote' fluidprop](http://www.asimptote.nl/software/fluidprop)
+|[asimptote' fluidprop](http://www.asimptote.nl/software/fluidprop)|<img src=FIGs/asimptote-logo.png height=50>|
+|---|---|
 > FluidProp is the ultimate thermodynamic property library. It lets you compute the thermodynamic and transport properties, like enthalpy, entropy, speed of sound, and many others. These properties are computed using the latest physical models and are therefore highly accurate and predictive. FluidProp includes models that provide:
 >- accurate properties close to the critical point,
 >- direct computation of the critical point of mixtures,
@@ -260,25 +346,35 @@ The thermodynamic models behavior of mixtures of state equations based hydrocarb
 >
 > See pricing for [Add-ons](http://www.asimptote.nl/webshop/category/1/FluidProp/)
 
-* [ThermoSolver](http://cbee.oregonstate.edu/education/Thermosolver/)
+|[ThermoSolver](http://cbee.oregonstate.edu/education/Thermosolver/)|<img src=FIGs/thermosolver-logo.png height=50>|
+|---|---|
 > A software that allows students to perform complex thermodynamics calculations, and explore thermodynamics for systems which would be impossible to solve without a significant investment in programming
 
-* [PE 2000](https://www.tuhh.de/v8/downloads/pe-2000.html) - A Powerful Tool to Correlate Phase Equilibria (by Oliver Pfohl, Stanimir Petkov, and Gerd Brunner)
+|[PE 2000](https://www.tuhh.de/v8/downloads/pe-2000.html)|<img src=FIGs/pe2000-logo.png height=50>|
+|---|---|
+> **A Powerful Tool to Correlate Phase Equilibria** (by Oliver Pfohl, Stanimir Petkov, and Gerd Brunner)
 > "PE offers subroutines to determine EOS pure-component parameters based on pure-component vapor pressures and densities at saturation conditions. Graphical output routines allow a visual comparison of experimental and calculated data of the vapor pressure curve and PvT data.
 > A useful feature when correlating phase equilibria related to gas-extraction processes is the possibility to enforce pure-component EOS parameters that reproduce the critical temperature and pressure of the supercritical solvent during the pure-component EOS parameter optimization.
 > PE offers subroutines to determine optimum binary interaction parameters for all EOS in order to reproduce the phase behavior of binary and ternary systems with a given set of EOS and mixing rule, best. Further, PE offers the possibility to calculate phase equilibria and densities with given interaction parameters at any conditions. Graphical output routines provide plots of the miscibility gaps in binary and ternary systems in a quality suitable for publications."
 
-* [checalc](http://checalc.com/)
+|[checalc](http://checalc.com/)|<img src=FIGs/checalc-logo.png height=50>|
+|---|---|
 > Chemical engineering calculations as **web applications** to assist process, plant operation and maintenance engineers.
 
 ### Open source
 
-* [TEOS-10](http://www.teos-10.org/) - the Thermodynamic Equation Of Seawater - 2010
+|[TEOS-10](http://www.teos-10.org/)|<img src=FIGs/teos10-logo.png height=50>|
+|---|---|
+>**the Thermodynamic Equation Of Seawater - 2010**
+>
 > "TEOS-10 is based on a Gibbs function formulation from which all thermodynamic properties of seawater (density, enthalpy, entropy sound speed, etc.) can be derived in a thermodynamically consistent manner." [@teos-10](http://www.teos-10.org/)
 >
 > Source code (in R, Haskell, C, FORTRAN, Matlab, IDL, Python, Octave, JavaScript) at [GitHub](https://github.com/TEOS-10)
 
-* [DWSIM](http://dwsim.inforside.com.br/wiki/index.php?title=Main_Page) - Open Source Chemical Process Simulator
+|[DWSIM](http://dwsim.inforside.com.br/wiki/index.php?title=Main_Page)|<img src=FIGs/dwsim-logo.png height=50>|
+|---|---|
+> **Open Source Chemical Process Simulator**
+>
 > "DWSIM is a CAPE-OPEN compliant chemical process simulator for Windows and Linux, also available for mobile devices running Android or iOS. Built on the top of the Microsoft .NET 4.0 and Mono Platforms and featuring a rich Graphical User Interface (GUI), DWSIM allows chemical engineering students and chemical engineers to better understand the behavior of their chemical systems by using rigorous thermodynamic and unit operations' models with no cost at all." [@dwsim.inforside](http://dwsim.inforside.com.br/wiki/index.php?title=Main_Page)
 >
 > Source code at [GitHub/DanWBR/dwsim4](https://github.com/DanWBR/dwsim4)
@@ -304,7 +400,10 @@ The thermodynamic models behavior of mixtures of state equations based hydrocarb
     * [fluids](https://github.com/CalebBell/fluids) - Fluid dynamics component of Chemical Engineering Design Library (ChEDL)
     > "quote"
 
-* [Cantera](http://cantera.github.io/docs/sphinx/html/index.html#) - Chemical kinetics, thermodynamics, and transport tool suite
+|[Cantera](http://cantera.github.io/docs/sphinx/html/index.html#)|<img src=FIGs/cantera-logo.png height=50>|
+|---|---|
+> **Chemical kinetics, thermodynamics, and transport tool suite**
+>
 > Cantera is an open-source collection of object-oriented software tools for problems involving chemical kinetics, thermodynamics, and transport processes. Among other things, it can be used to:
 >- Evaluate thermodynamic and transport properties of mixtures
 >- Compute chemical equilibrium
@@ -319,7 +418,10 @@ The thermodynamic models behavior of mixtures of state equations based hydrocarb
 >
 > See also usage examples of Cantera in jupyter-notebook format at [GitHub/Cantera-jupyter](https://github.com/Cantera/cantera-jupyter)
 
-* [CoolProp](http://www.coolprop.org) - Thermophysical properties for the masses
+|[CoolProp](http://www.coolprop.org)|<img src=FIGs/coolprop-logo.png height=50>|
+|---|---|
+>**Thermophysical properties for the masses**
+>
 > "CoolProp is a thermophysical property database and wrappers for a selection of programming environments. It offers similar functionality to REFPROP, but CoolProp is open-source and free. It was originally developed by Ian Bell, currently a post-doc at the University of Liege, in Liege, Belgium."
 
   * main source code at [GitHub/CoolProp/CoolProp](https://github.com/CoolProp/CoolProp)
@@ -332,8 +434,8 @@ The thermodynamic models behavior of mixtures of state equations based hydrocarb
   * See source code for the main code at [GitHub/HugoRedon/Materia](https://github.com/HugoRedon/Materia) and for the web application at [GitHub/HugoRedon/chimicae](https://github.com/HugoRedon/chimicae)
   * See also [Nayazu](https://github.com/HugoRedon/Nayazu) - Calculo de propiedades termodinámicas con ecuaciones de estado cubicas
 
-* [Thermocycle](http://www.thermocycle.net/)
-> "quote"
+|[Thermocycle](http://www.thermocycle.net/)|<img src=FIGs/thermocycle-logo.png height=50>|
+|---|---|
 
   * [Thermocycle-library](https://github.com/thermocycle/Thermocycle-library)
 > "The ThermoCycle library is an open-source library for dynamic modelling of thermal systems developed in the Modelica language. The library aims at providing a robust framework to model thermal systems, including thermodynamic cycles. A number of libraries are available to model steam or gas cycles (e.g. ThermoSysPro, Power Plants, etc.), but few are able to handle the non-conventional working fluids (refrigerants, ammonia, siloxanes, etc.) used in some thermal systems such as heat pumps, Organic Rankine Cycles, absorption chillers, etc." [@GitHub/Thermocycle-library](https://github.com/thermocycle/Thermocycle-library)
@@ -349,25 +451,39 @@ The thermodynamic models behavior of mixtures of state equations based hydrocarb
 >- Simple reactor for modeling combustion of single organic compounds.
 >- Moist gas model.
 
-* [Edward Blurock / Thermodynamics](https://github.com/blurock/thermodynamics)
-> see [official page](http://esblurock.info/homepage/teaching/jthergas-2/) and [associated publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3677398/)
+|[Edward Blurock' Thermodynamics](http://esblurock.info/homepage/teaching/jthergas-2/)|<img src=FIGs/blurock-logo.png height=50>|
+|---|---|
+> see [associated publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3677398/)
 
   * [JTHERGAS](https://github.com/blurock/Thermodynamics/tree/master/JTherGas)
   > JTHERGAS (a JAVA implementation of THERGAS) estimates thermodynamic information from two dimensional graphical representations of molecules and radicals based on the Benson additivity method. The main use of this method is within automatic combustion mechanism generation systems where fast estimation of a large number and variety of chemical species is needed. The implementation strategy is based on meta-atom definitions and substructure analysis allowing a highly extensible database without modification of the core algorithms. Several interfaces for the database and the calculations are provided from terminal line commands, to graphical interfaces to web-services. The first order estimation of thermodynamics is based summing up the contributions of each heavy atom bonding description. Second order corrections due to steric hindrance and ring strain are made. Automatic estimate of contributions due to internal, external and optical symmetries are also made. Radicals are calculated by taking the difference due to the lost of hydrogen radicals taking into account changes in symmetry, spin, rotations, vibrations and steric hindrances. The software is public domain.The project is still under development, but a development version is visible on the following link. Login as ‘Guest’ (just press the guest button). Click through the ‘Thermodynamic Queries(upper left hand box) and again ‘Thermodynamic Queries’ (again upper left hand box) This brings you to the menu for entering a Nancy Linear Form (similar toSMILES) to calculate the thermodynamic quantities.
   >
-  > also on [sourceforge](https://sourceforge.net/projects/jthergas/)
+  > Source code at [GitHub / Edward Blurock](https://github.com/blurock/thermodynamics) and on [sourceforge](https://sourceforge.net/projects/jthergas/)
   >
   > see THERGAS [here](https://www.tib.eu/en/search/id/BLSE%3AEN027237680/THERGAS-a-computer-program-for-the-evaluation-of/) and [here](https://www.infona.pl/resource/bwmeta1.element.elsevier-c7c7c9d6-1093-3848-a69d-50300520259c)
 
   * [Jthermodynamic](https://github.com/blurock/Thermodynamics/tree/master/JThermodynamics) (Core System)
   > The Jthermodynamic Core System is the heart of the JTHERGAS system and has all the functionality needed for computations and database management.
 
-*  [NASA' CEA](https://www.grc.nasa.gov/WWW/CEAWeb/) - the NASA Glenn computer program, CEA (Chemical Equilibrium with Applications), by Bonnie J. McBride and Sanford Gordon.
-> "The NASA Computer program CEA (Chemical Equilibrium with Applications) calculates chemical equilibrium compositions and properties of complex mixtures."
-> The download package includes the latest CEA Fortran Source code and the CEA related packages CAP, PAC and MISC.
->- Downloads for [windows](https://www.grc.nasa.gov/WWW/CEAWeb/ceaguiDownload-win.htm) and for [unix](https://www.grc.nasa.gov/WWW/CEAWeb/ceaguiDownload-unix.htm)
->- [User manual and program description](https://www.grc.nasa.gov/WWW/CEAWeb/RP-1311P2.htm)
->- [Analysis](https://www.grc.nasa.gov/WWW/CEAWeb/RP-1311.htm) - "*mathematical analyses and techniques for obtaining chemical equilibrium; formulas for obtaining thermodynamic and transport mixture properties and thermodynamic derivatives; criteria for inclusion of condensed phases; calculations at a triple point; inclusion of ionized species; and various applications, such as constant-pressure or constantvolume combustion, rocket performance based on either a finite or infinitechamberarea model, shock wave calculations, and ChapmanJouguet detonations.*"
+|[NASA](https://www.grc.nasa.gov)|<img src=FIGs/nasa-logo.png height=50>|
+|---|---|
+
+  * NASA' T-MATS
+  > **NASA' Toolbox for the Modeling and Analysis of Thermodynamic Systems**
+  >
+  > "An open source thermodynamic modeling package completed on behalf of NASA. The Toolbox for the Modeling and Analysis of Thermodynamic Systems (T-MATS) package offers a MATLAB/Simulink toolbox that gives a developer the ability to create simulations of such thermodynamic systems as turbomachinery and gas turbines."
+  >
+  > Source code on [GitHub/NASA/TMATS](https://github.com/nasa/T-MATS)
+
+|[NASA' CEA](https://www.grc.nasa.gov/WWW/CEAWeb/)|<img src=FIGs/nasacea-logo.png height=50>|
+|---|---|
+  >**NASA Glenn computer program, CEA (Chemical Equilibrium with Applications)** by Bonnie J. McBride and Sanford Gordon.
+  >
+  > "The NASA Computer program CEA (Chemical Equilibrium with Applications) calculates chemical equilibrium compositions and properties of complex mixtures."
+  > The download package includes the latest CEA Fortran Source code and the CEA related packages CAP, PAC and MISC.
+  >- Downloads for [windows](https://www.grc.nasa.gov/WWW/CEAWeb/ceaguiDownload-win.htm) and for [unix](https://www.grc.nasa.gov/WWW/CEAWeb/ceaguiDownload-unix.htm)
+  >- [User manual and program description](https://www.grc.nasa.gov/WWW/CEAWeb/RP-1311P2.htm)
+  >- [Analysis](https://www.grc.nasa.gov/WWW/CEAWeb/RP-1311.htm) - "*mathematical analyses and techniques for obtaining chemical equilibrium; formulas for obtaining thermodynamic and transport mixture properties and thermodynamic derivatives; criteria for inclusion of condensed phases; calculations at a triple point; inclusion of ionized species; and various applications, such as constant-pressure or constantvolume combustion, rocket performance based on either a finite or infinitechamberarea model, shock wave calculations, and ChapmanJouguet detonations.*"
 
   * ThermoBuild (an interactive tool which uses the NASA Glenn thermodynamic database to select species and to obtain:
     >- Tables of thermodynamic properties for a user-supplied temperature schedule.
@@ -380,11 +496,6 @@ The thermodynamic models behavior of mixtures of state equations based hydrocarb
   >- Tabulating data.
   >- Generating subsets of the original data format for use with CEA or other programs designed to read from the source.
   >- Searching/browsing capability."
-
-* [NASA' T-MATS](https://github.com/nasa/T-MATS)
-> "An open source thermodynamic modeling package completed on behalf of NASA. The Toolbox for the Modeling and Analysis of Thermodynamic Systems (T-MATS) package offers a MATLAB/Simulink toolbox that gives a developer the ability to create simulations of such thermodynamic systems as turbomachinery and gas turbines."
->
-> Source code on [GitHub/NASA/TMATS](https://github.com/nasa/T-MATS)
 
 * [Phasety' sur](https://github.com/phasety/sur) - Calculate and plot envelopes and flashes for multicompound mixtures using equation of states
 > "La biblioteca de cálculo del software de cálculo de envolventes y flashes se programará en Fortran, de manera modular para facilitar la integración a un entorno de alto nivel en Python a través de F2py. Los cálculos de envolventes serán 3 rutinas de cálculo, 1 para cada modelo (SRK, RKPR y PR). Estas rutinas reciben basicamente el mismo input, con la excepción de los parámetros del modelo." [@GitHub/Phasety/Sur](http://phasety.com/7/projects/sur-37/)
@@ -399,7 +510,9 @@ The thermodynamic models behavior of mixtures of state equations based hydrocarb
 > Simulation of Clausius-Rankine cycles
 ClaRa, developed by TLK and XRG Simulation, is an open source software library of power plant components programmed in the modeling language Modelica which enables the user to simulate the dynamic behavior of power plants and to answer current questions about power plant operation. Please learn more about ClaRa and download the library for free on the
 
-* DANA-Laboratory, in persian(?) (fa(?)) [(dlab.ir/.ir)](http://dana-laboratory.github.io) and in english (en) [(dlab.ir/IndexEn)](http://dlab.ir/IndexEn.html)
+|[DANA-Laboratory](http://dana-laboratory.github.io)|<img src=FIGs/dana-logo.png height=50>|
+|---|---|
+> **DANA-Laboratory**, in persian(?) (fa(?)) [(dlab.ir/.ir)](http://dana-laboratory.github.io) and in english (en) [(dlab.ir/IndexEn)](http://dlab.ir/IndexEn.html)
 > "آزمایشگاه مدلسازی فرآیند دانا
 آزمایشگاه دانا، یک پروژه متن باز جهت توسعه نرم افزار مدلسازی فرآیند، براساس معادلات و با اهداف آموزشی می باشد"
 >
@@ -434,12 +547,16 @@ ClaRa, developed by TLK and XRG Simulation, is an open source software library o
   >
   > Source at [GitHub / DANA-Laboratory](https://github.com/DANA-Laboratory/ThermodynamicsTable.jl)
 
-* [BurnMan](http://www.burnman.org/)
+|[BurnMan](http://www.burnman.org/)|<img src=FIGs/burnman-logo.png height=50>|
+|---|---|
 >	BurnMan is a library for modeling mantle thermodynamics and thermoelasticity constrained by mineral physics experiments. A Python library for generating thermodynamic and thermoelastic models of planetary interiors.
 >
 > By [geodynamics](https://www.geodynamics.org/). Source at [GitHub/geodynamics](https://github.com/geodynamics/burnman)
 
-* [mocsy](http://ocmip5.ipsl.jussieu.fr/mocsy/) - **M** odel **O** cean **C** arbonate **S** ystem thermodynamics
+|[mocsy](http://ocmip5.ipsl.jussieu.fr/mocsy/)|<img src=FIGs/mocsy-logo.png height=50>|
+|---|---|
+> **M** odel **O** cean **C** arbonate **S** ystem thermodynamics
+>
 > Routines to model ocean carbonate system thermodynamics. Compute thermodynamic constants FROM temperature, salinity, and pressure
 >- Compute pressure [db] from depth [m] & latitude [degrees north]
 >- Compute in situ density from salinity (psu), in situ temperature (C), & pressure (db)
@@ -447,7 +564,8 @@ ClaRa, developed by TLK and XRG Simulation, is an open source software library o
 >
 > Source at [GitHub/jamesorr]([jamesorr/mocsy](https://github.com/jamesorr/mocsy)). See usage examples in jupyter notebook format [there](https://github.com/jamesorr/mocsy/blob/master/examples/mocsy_examples.ipynb)
 
-* [pycalphad](https://pycalphad.org/)
+|[pycalphad](https://pycalphad.org/)|<img src=FIGs/pycalphad-logo.png height=50>|
+|---|---|
 > "CALPHAD tools for designing thermodynamic models, calculating phase diagrams and investigating phase equilibria.
 >
 > has jupyter notebooks [there](https://github.com/pycalphad/pycalphad/tree/develop/examples)
@@ -464,13 +582,16 @@ ClaRa, developed by TLK and XRG Simulation, is an open source software library o
 >
 > source code at [GitHub / PyCalPhad](https://github.com/pycalphad/pycalphad)
 
-* [opencalphad](http://www.opencalphad.org/)
+|             |<img src=FIGs/opencalphad-logo.png height=50>|
+|---|---|
+
 > "OpenCalphad is an informal international collaboration of scientists and researchers interested in the development of high quality software and databases for thermodynamic calculations for all kinds of applications.
 >- develop more fundamental models to incorporate results from DFT calculations
 >
 > Source code at [GitHub / Bo Sundman](https://github.com/sundmanbo/opencalphad)
 
 * [Hydra](https://github.com/giorgidze/Hydra)
+
 > "Hydra is a high level, declarative language for modelling and simulation of
 physical systems. Systems in Hydra are being modelled using implicitly
 formulated (undirected) Differential Algebraic Equations (DAEs). While,
@@ -479,24 +600,32 @@ formulated using DAEs."
 >
 > Source code at [GitHub / giorgidze](https://github.com/giorgidze/Hydra)
 
- * [modelyze](http://www.modelyze.org/)
+|[modelyze](http://www.modelyze.org/)|<img src=FIGs/modelyze-logo.png height=50>|
+|---|---|
  > Modelyze (MODEl and anaLYZE) is a host language designed for modeling and analysis of cyber-physical systems (CPS). Modelyze is not a modeling language itself, but a host language where domain-specific languages (DSLs) can be embedded. It has been tested and evaluated on equation-based object-oriented DSLs, used for modeling of physical systems.
  >
  > Source code at [GitHub / David Broman](https://github.com/david-broman/modelyze)
 
- * [Ascend](http://ascend4.org/Main_Page)
- > ASCEND is a free open-source software program for solving small to very large mathematical models. ASCEND can solve systems of non-linear equations, linear and nonlinear optimisation problems, and dynamic systems expressed in the form of differential/algebraic equations.
+ |[Ascend](http://ascend4.org/Main_Page)|<img src=FIGs/ascend-logo.png height=50>|
+ |---|---|
+  > ASCEND is a free open-source software program for solving small to very large mathematical models. ASCEND can solve systems of non-linear equations, linear and nonlinear optimisation problems, and dynamic systems expressed in the form of differential/algebraic equations.
  >
  > Source code at [Sourceforge / Ascend](https://sourceforge.net/projects/ascend-sim/files/)
 
- * [OPM](http://opm-project.org/) - **O** pen **P** orous **M** edia
+ |[OPM](http://opm-project.org/)|<img src=FIGs/opm-logo.png height=50>|
+ |---|---|
+ > **O** pen **P** orous **M** edia
+ >
  > The OPM initiative encourages open innovation and reproducible research for modeling and simulation of porous media processes.
  > Provides thermodynamic relations, capillary pressure curves, etc.
  >
  > Source code at [GitHub / OPM](https://github.com/OPM/opm-material)
 
- * [DUMUx](http://dumux.org/)
- > DuMux, DUNE for Multi-{Phase, Component, Scale, Physics, ...} flow and transport in porous media, is a free and open-source simulator for flow and transport processes in porous media. It is based on the Distributed and Unified Numerics Environment DUNE. Its main intention is to provide a sustainable and consistent framework for the implementation and application of porous media model concepts and constitutive relations. It has been successfully applied to CO2 storage scenarios, environmental remediation problems, transport of therapeutic agents through biological tissue, and subsurface-atmosphere coupling. The development of DuMux started in January 2007 at the University of Stuttgart.
+ |[DUMUx](http://dumux.org/)|<img src=FIGs/dumux-logo.png height=50>|
+ |---|---|
+ >**DuMux, DUNE for Multi-{Phase, Component, Scale, Physics, ...} flow and transport in porous media**
+ >
+ > This is a free and open-source simulator for flow and transport processes in porous media. It is based on the Distributed and Unified Numerics Environment DUNE. Its main intention is to provide a sustainable and consistent framework for the implementation and application of porous media model concepts and constitutive relations. It has been successfully applied to CO2 storage scenarios, environmental remediation problems, transport of therapeutic agents through biological tissue, and subsurface-atmosphere coupling. The development of DuMux started in January 2007 at the University of Stuttgart.
  >
  > Source code at uni-stuttgart, see [here](http://dumux.org/download.php)
 

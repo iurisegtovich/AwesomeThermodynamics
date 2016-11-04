@@ -1,2 +1,2 @@
-  |             |<img src=FIGs/                    -logo.png height=50>|
-  |---|---|
+|             |<img src=FIGs/                    -logo.png height=50>|
+|---|---|
