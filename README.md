@@ -13,17 +13,24 @@ A curated list of awesome resources on Thermodynamics
 > The group congregates professors, researchers, and students of two academic units of the Federal University of Rio de Janeiro (UFRJ), Brazil:
 >- The School of Chemistry (Escola de Quimica), which has undergraduate programs in Chemical Engineering, Bioprocess Engineering, Food Engineering, and Industrial Chemistry, as well as a graduate program in Chemical & Biochemical Process Technology (TPQB).
 >- The Alberto Luiz Coimbra Institute for Graduate Studies (COPPE), which coordinates several graduate programs in engineering, including the Chemical Engineering Program (PEQ).
+>
+> See their code repository at [GitHub / ATOMS](https://github.com/atoms-ufrj)
 
 |[WMD](https://wmd-group.github.io/)|<img src=FIGs/wmd-logo.png height=50>|
 |---|---|
 > **Materials Design Group, Research group in computational chemistry & physics at Imperial College London**
 >
 > We are an academic research group focused on the atomistic modelling and the electronic structure of materials. Our interests cover dielectric, semiconducting and metallic compounds including temperature, defects and disorder. We are based at Imperial College London (UK), with a satellite laboratory at Yonsei University (South Korea).
+>
+> See their code repository at [GitHub / WMD](https://github.com/wmd-group)
+
 
 ### Process simulation (introduce some companies here, see software below)
 
-* CO-LAN
-> CO-LaN is the organization for the management of the CAPE-OPEN standard
+|CO-LaN|<img src=FIGs/colan-logo.png height=50>|
+|---|---|
+> **CO-LaN is the organization for the management of the CAPE-OPEN standard**
+>
 
 * [CERE](http://www.cere.dtu.dk/) - Center for Energy Resources Engineering
   * [CHIGP](http://www.chigp.dk/) - Chemicals in Gas Processing
