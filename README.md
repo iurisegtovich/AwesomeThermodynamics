@@ -606,14 +606,14 @@ formulated using DAEs."
  >
  > Source code at [GitHub / David Broman](https://github.com/david-broman/modelyze)
 
- |[Ascend](http://ascend4.org/Main_Page)|<img src=FIGs/ascend-logo.png height=50>|
- |---|---|
+|[Ascend](http://ascend4.org/Main_Page)|<img src=FIGs/ascend-logo.png height=50>|
+|---|---|
   > ASCEND is a free open-source software program for solving small to very large mathematical models. ASCEND can solve systems of non-linear equations, linear and nonlinear optimisation problems, and dynamic systems expressed in the form of differential/algebraic equations.
  >
  > Source code at [Sourceforge / Ascend](https://sourceforge.net/projects/ascend-sim/files/)
 
- |[OPM](http://opm-project.org/)|<img src=FIGs/opm-logo.png height=50>|
- |---|---|
+|[OPM](http://opm-project.org/)|<img src=FIGs/opm-logo.png height=50>|
+|---|---|
  > **O** pen **P** orous **M** edia
  >
  > The OPM initiative encourages open innovation and reproducible research for modeling and simulation of porous media processes.
@@ -621,8 +621,8 @@ formulated using DAEs."
  >
  > Source code at [GitHub / OPM](https://github.com/OPM/opm-material)
 
- |[DUMUx](http://dumux.org/)|<img src=FIGs/dumux-logo.png height=50>|
- |---|---|
+|[DUMUx](http://dumux.org/)|<img src=FIGs/dumux-logo.png height=50>|
+|---|---|
  >**DuMux, DUNE for Multi-{Phase, Component, Scale, Physics, ...} flow and transport in porous media**
  >
  > This is a free and open-source simulator for flow and transport processes in porous media. It is based on the Distributed and Unified Numerics Environment DUNE. Its main intention is to provide a sustainable and consistent framework for the implementation and application of porous media model concepts and constitutive relations. It has been successfully applied to CO2 storage scenarios, environmental remediation problems, transport of therapeutic agents through biological tissue, and subsurface-atmosphere coupling. The development of DuMux started in January 2007 at the University of Stuttgart.
