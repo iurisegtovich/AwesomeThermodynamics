@@ -24,6 +24,12 @@ A curated list of awesome resources on Thermodynamics
 >
 > See their code repository at [GitHub / WMD](https://github.com/wmd-group)
 
+|[GERG](http://www.gerg.eu/)|<img src=FIGs/gerg-logo.png height=50>|
+|---|---|
+> **GROUPE EUROPÉEN DE RECHERCHES GAZIÈRES - The European Gas Research Group**
+>
+> GERG members serve an European Gas Industry which has the responsibility of supplying some 100 million domestic, commercial, industrial and power station gas customers.
+> GERG members have developed a large European reservoir of specialist knowledge, and currently support a high quality research resource, numbering in excess of 2000 staff.
 
 ### Process simulation (introduce some companies here, see software below)
 
@@ -39,7 +45,7 @@ A curated list of awesome resources on Thermodynamics
   * [CHIGP](http://www.chigp.dk/) - Chemicals in Gas Processing
   > CHIGP is a joint industry project for the development of the CPA (Cubic-Plus-Association) equation of state for systems of relevance to the oil & gas and chemical industries.
   >
-  > See [*dissemination of university research through cape open*](http://www.colan.org/techpapers/dissemination-of-university-research-through-cape-open/), \*"ThermoSystem 4.0" [\*](XXX no webpage found, CAPE-OPEN compatible library for thermodynamic models and unit operations using 	presented in "Maribo-Mogensen, G. M. Kontogeorgis, K. Thomsen, Development of a CAPE-OPEN compatible library for thermodynamic models and unit operations using .NET, 8th European Conference of Chemical Engineering, Berlin, 2011, 26-29 September)
+  > See [*dissemination of university research through cape open*](http://www.colan.org/techpapers/dissemination-of-university-research-through-cape-open/), "ThermoSystem 4.0", *no webpage found*
 
 ### Databases
 |[NIST](http://webbook.nist.gov/chemistry/)|<img src=FIGs/nist-logo.png height=50>|
@@ -168,93 +174,94 @@ A curated list of awesome resources on Thermodynamics
   * [ClaRa](https://www.tlk-thermo.com/index.php/en/software-products/clara) – Simulation of **Cla** usius - **Ra** nkine cycles
   > ClaRa, developed by TLK and XRG Simulation, is an open source software library of power plant components programmed in the modeling language Modelica which enables the user to simulate the dynamic behavior of power plants and to answer current questions about power plant operation. Please learn more about ClaRa and download the library for free on the official website.
 
-  |             |<img src=FIGs/                    -logo.png height=50>|
-  |---|---|
-* aspen properties [\*](xxx)
-
-|             |<img src=FIGs/                    -logo.png height=50>|
+|[Aspen Tech](http://www.aspentech.com/)|<img src=FIGs/aspentech-logo.png height=50>|
 |---|---|
-* PPDS [\*](xxx)
 
-|             |<img src=FIGs/                    -logo.png height=50>|
-|---|---|
-* UNISIM COMthermo [\*](xxx)
+  * Aspen properties
+  > The Property Database You Can Rely On.
+  > Stop manually researching and transferring physical property data. Use the industry standard for thermophysical properties modeling throughout the process lifecycle with Aspen Properties®
 
-|             |<img src=FIGs/                    -logo.png height=50>|
-|---|---|
-* Apen HySys COMthermo [\*](xxx)
+  * aspenONE Engineering
+  > A market leading suite of products focused on process engineering and optimization.  Process modeling analysis and design tools are integrated and accessible through process simulators Aspen HYSYS® and Aspen Plus®.
 
-|             |<img src=FIGs/                    -logo.png height=50>|
-|---|---|
-* Simulis thermodynamics [\*](xxx)
+  * Advanced Process Control
+  > Aspen DMCplus® has been de facto standard for advanced process control software. Now, with a completely re-designed modeling environment and the introduction of Adaptive Process Control, we're delivering what the competition can only dream about.
 
-|             |<img src=FIGs/                    -logo.png height=50>|
-|---|---|
-* MultiFlash [\*](xxx)
+  * MES
+  > an efficient Manufacturing Execution System (MES). Based on the ISA-S95 framework, aspenONE® MES delivers efficient data management, operational intelligence via rich visualization and analytics, and improved production execution—enabling process manufacturers to quickly identify and resolve operational issues.
 
-|             |<img src=FIGs/                    -logo.png height=50>|
-|---|---|
-* CO-SPPTS [\*](xxx)
+  * Petroleum supply chain
+  > Optimize your petroleum supply chain with integrated refinery planning and scheduling and standardized platforms for primary and second distribution networks. aspenONE Petroleum Supply Chain helps you optimize feedstock, respond quickly to disruptions, capitalize on trading opportunities, and optimize inventory and transportation assets. Find out how you can maximize profitability and drive improvements across your entire petroleum supply chain.
 
-|             |<img src=FIGs/                    -logo.png height=50>|
-|---|---|
-* TEA [\*](xxx)
+  * Supply Chain Management.
+  > Our best-of-breed supply chain software expedites profitable responses to unexpected market demands in your process manufacturing supply chain. The rich and engaging user experience provides fast access to information you need to facilitate decision-making. This end-to-end supply chain optimization solution is fast, flexible, and easy-to-use.
 
-|             |<img src=FIGs/                    -logo.png height=50>|
-|---|---|
-* GERG2004 [\*](xxx)
+  * Aspen Fidelis Reliability™
+  > takes a systems approach to address your maintenance and reliability needs.
 
-|             |<img src=FIGs/                    -logo.png height=50>|
-|---|---|
-* Aspen Plus [\*](xxx)
+  * COMThermo
+  > Thermophysical property calculation engine for engineering workflow for the oil and gas industries.
 
-|             |<img src=FIGs/                    -logo.png height=50>|
+|[PPDS - Thermodynamic Properties Suite](http://www.tuv-sud.co.uk/uk-en/about-tuev-sued/tuev-sued-in-the-uk/nel/ppds-thermodynamic-properties-suite)|<img src=FIGs/tuvsud-logo.png height=50><img src=FIGs/ppds-logo.png height=50>|
 |---|---|
-* Aspen Hysys [\*](xxx)
+* The PPDS Suite of software packages and databases is used daily throughout the world to provide quality-assured physical property data (numeric values with associated uncertainties) for a wide range of process engineering applications.
 
-|             |<img src=FIGs/                    -logo.png height=50>|
-|---|---|
-* ChemCad [\*](xxx)
 
-|             |<img src=FIGs/                    -logo.png height=50>|
+|[Honeywell' UNISIM](https://www.honeywellprocess.com/en-US/explore/products/advanced-applications/unisim/Pages/default.aspx)|<img src=FIGs/honeywell-logo.png height=50>|
 |---|---|
-* COFE [\*](xxx)
+* Honeywell’s UniSim® software family substantially improves simulation of online and off-line process unit design and optimization applications and helps determine the workflow, equipment needs and implementation requirements for a particular process. Users can easily capture and share process knowledge, improve plant profitability, and maximize the return on their simulation investments.
 
-|             |<img src=FIGs/                    -logo.png height=50>|
-|---|---|
-* COMSOL [\*](xxx)
 
-|             |<img src=FIGs/                    -logo.png height=50>|
-|---|---|
-* gPROMS [\*](xxx)
 
-|             |<img src=FIGs/                    -logo.png height=50>|
+|[Prosim' simulis](http://www.prosim.net/en/software-simulis-thermodynamics-mixture-properties-and-fluid-phase-equilibria-calculations-3.php)|<img src=FIGs/prosim-logo.png height=50>|
 |---|---|
-* IndissPlus [\*](xxx)
+> **Mixture properties and fluid phase equilibria calculations**
+>
+> Interoperability, integration, reusability. Simulis Thermodynamics allows anyone in industry, engineering or research to run high quality thermophysical properties calculations. These calculations can be plugged in any software of wider application range (equipment sizing, system modeling, etc) and properties are available for any kind of fluid. Simulis Thermodynamics makes open simulation a practical reality.
 
-|             |<img src=FIGs/                    -logo.png height=50>|
+|[KBC' Multiflash](http://www.kbcat.com/infochem-software/flow-assurance-software-multiflash)|<img src=FIGs/kbc-logo.png height=50>|
 |---|---|
-* ProSimPlus [\*](xxx)
+> Multiflash is a powerful and versatile PVT and EOS modelling software package dedicated to:
+>- PVT modelling of reservoir fluids phase behaviour
+>- Flow assurance and production
+>- Evaluation of fluids’ physical properties for design and process simulation
 
-|             |<img src=FIGs/                    -logo.png height=50>|
-|---|---|
-* PRO/II [\*](xxx)
 
-|             |<img src=FIGs/                    -logo.png height=50>|
+|[Chemstations' ChemCad](http://www.chemstations.com/)|<img src=FIGs/chemstations-logo.png height=50>|
 |---|---|
-* UniSim Design [\*](xxx)
+>"CHEMCAD is Chemstations’ intuitive suite of chemical process simulation software that broadens an engineer’s capabilities and increases productivity. CHEMCAD supercharges an engineer’s efficiency when facing the toughest chemical process models or addressing day-to-day challenges.""
 
-|             |<img src=FIGs/                    -logo.png height=50>|
-|---|---|
-* Simulis Thermodynamics [\*](xxx)
 
-|             |<img src=FIGs/                    -logo.png height=50>|
+|[COMSOL](https://www.comsol.com/)|<img src=FIGs/comsol-logo.png height=50>|
 |---|---|
-* TUWAX [\*](xxx)
+> COMSOL is the developer of COMSOL Multiphysics software, an interactive environment for modeling and simulating scientific and engineering problems.
 
-|             |<img src=FIGs/                    -logo.png height=50>|
+|[PSE' gPROMS](https://www.psenterprise.com/products/gproms)|<img src=FIGs/gproms-logo.png height=50>|
 |---|---|
-* Xchanger Suite [\*](xxx)
+> The gPROMS platform provides all the essential functionality – drag & drop flowsheeting, first-principles custom modelling, parameter estimation, and most important, a powerful optimisation framework that allows you to seek optimal solutions directly rather than by trial-and-error simulation.
+
+
+|[RSI' IndissPlus](http://www.simulationrsi.com/spip.php?article16)|<img src=FIGs/indissplus-logo.png height=50>|
+|---|---|
+> IndissPlus Features
+The IndissPlus platform which integrates multi- referenced high fidelity simulation platform Indiss has been developed in the strategic target to follow the full process life cycle and permit model re-usability , enriched from design to training phases.
+> IndissPlus includes process, instruments and safety systems to form a virtual plant.
+
+
+
+|[schneider electric' SimSci PRO/II](http://software.schneider-electric.com/products/simsci/design/pro-ii/)|<img src=FIGs/proii-logo.png height=50>|
+|---|---|
+> PRO/II optimizes plant performance by improving process design and operational analysis and performing engineering studies. Designed to perform rigorous heat and material balance calculations for a wide range of chemical processes, PRO/II offers a wide variety of thermodynamic models to virtually every industry. PRO/II is cost effective, thereby decreasing both capital and operating costs.
+
+* [TUPDP' TUWAX](http://www.tupdp.utulsa.edu/)]
+> TUWAX is a program for predicting paraffin deposition in single and two-phase flow environments. It is developed at Tulsa University Paraffin Deposition Project (TUPDP)
+>
+> See https://www3.aiche.org/proceedings/Abstract.aspx?PaperID=89663
+>  *no webpage found*
+
+|[HTRI" Xchanger suite](https://www.htri.net/htri-xchanger-suite.aspx)|<img src=FIGs/xchangersuite-logo.png height=50>|
+|---|---|
+> HTRI Xchanger Suite®, from the global leader in process heat transfer and heat exchanger technology, includes components for heat transfer and associated calculations of heat exchangers and fired heaters. HTRI’s calculation methods are backed by 50 years of extensive research and data collected on industrially relevant heat transfer equipment. Based on the results of this ongoing effort, we update our methods to meet your evolving engineering needs.
 
 |Reaction Design' [CHEMKIN](http://www.reactiondesign.com/products/chemkin/)|<img src=FIGs/reactiondesign-logo.png height=50>|
 |---|---|
@@ -438,7 +445,7 @@ The thermodynamic models behavior of mixtures of state equations based hydrocarb
   * And [CoolProp/PC-SAFT](https://github.com/CoolProp/PC-SAFT) - Open-source implementation of [PC-SAFT](http://pubs.acs.org/doi/abs/10.1021/ie0003887) equation of state
 
 * [Hugo Redon / Materia](http://hugoredon.github.io/Materia/)
-> "Esta es la página de información para el proyecto de Ingeniería Química llamado Materia. Materia es una biblioteca de clases que permite realizar cálculos de propiedades termodinámicas y cálculos de equilibrio líquido vapor con ecuaciones de estado cúbicas." [\*](XXX, translate description, note that the content is partially in english and partially in some spanish (not sure which))
+> "Esta es la página de información para el proyecto de Ingeniería Química llamado Materia. Materia es una biblioteca de clases que permite realizar cálculos de propiedades termodinámicas y cálculos de equilibrio líquido vapor con ecuaciones de estado cúbicas."
   * Try Materia online at [chimicae-materia.rhcloud](http://chimicae-materia.rhcloud.com/)
   * See source code for the main code at [GitHub/HugoRedon/Materia](https://github.com/HugoRedon/Materia) and for the web application at [GitHub/HugoRedon/chimicae](https://github.com/HugoRedon/chimicae)
   * See also [Nayazu](https://github.com/HugoRedon/Nayazu) - Calculo de propiedades termodinámicas con ecuaciones de estado cubicas
