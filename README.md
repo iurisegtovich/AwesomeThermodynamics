@@ -5,8 +5,10 @@ A curated list of awesome resources on Thermodynamics
 
 ### Research Groups
 
-|[ATOMS](http://atoms.peq.coppe.ufrj.br/)|![atoms-logo](FIGs/atoms-logo.png)|
+|[ATOMS](http://atoms.peq.coppe.ufrj.br/)|<img src=FIGs/atoms-logo.png height=50>|
 |---|---|
+
+
 * Applied Thermodynamics and Molecular Simulation
 > "ATOMS is a research group dedicated to the development of theoretical, experimental, and computational tools in the fields of classical and statistical thermodynamics, and to the application of these tools to the solution of problems of both academic and industrial interest.
 > The group congregates professors, researchers, and students of two academic units of the Federal University of Rio de Janeiro (UFRJ), Brazil:
@@ -195,7 +197,7 @@ A curated list of awesome resources on Thermodynamics
 
 ### Free (check commercial / academic usage restrictions)
 
-|[Phasety](http://phasety.com)|![phasety-logo](FIGs/phasety-logo.png)|
+|[Phasety](http://phasety.com)|<img src=FIGs/phasety-logo.png height=50>||
 |---|---|
 
 > "Software and consulting in thermodynamics for the oil and chemical industries."
