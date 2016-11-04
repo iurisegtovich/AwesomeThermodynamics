@@ -112,17 +112,26 @@ A curated list of awesome resources on Thermodynamics
 
 ### codes ( courses presented along with source code )
 
-  * FOSSEE's [Textbook-Companions](http://fossee.in/#a) -
-  > "The Textbook Companion activity aims to create a repository of reference material for Python by coding solved examples of standard engineering textbooks."
-  >
-  > in Scilab, Python, eSim, OpenFOAM, OR-Tools and DWSIM
-  >-  source codes at [GitHub/FOSSEE](https://github.com/FOSSEE)
+* FOSSEE's [Textbook-Companions](http://fossee.in/#a) -
+> "The Textbook Companion activity aims to create a repository of reference material for Python by coding solved examples of standard engineering textbooks."
+>
+> in Scilab, Python, eSim, OpenFOAM, OR-Tools and DWSIM
+>-  source codes at [GitHub/FOSSEE](https://github.com/FOSSEE)
 
 * [PyTherm](https://github.com/iurisegtovich/PyTherm) - Educational Python source code for scientific computing in applied thermodynamics.
 > Our goal is to curate and develop educational material on applied thermodynamics using modern programming languages (e.g. python, julia) and modern (in jupyter notebook format).
 >- Develop study material for beginners in thermodynamics and in programming / scientific computing.
 >- Publish well documented and open source implementations of topics of interest in thermodynamics for intermediate level students in thermodynamics and in programming / scientific computing, with complete reference to original journal or textbook publications.
 >- Develop research level packages for advanced level graduate students and researchers, in subtopics of applied thermodynamics that are missing in open source community.
+
+|[VALUE @ Amrita](http://vlab.amrita.edu)|<img src=FIGs/valueamrita-logo.png height=50>|
+|---|---|
+>**Virtual Amrita Laboratories Universalizing Education**
+>* free sign up
+>* adobe flash
+>* .js
+>* flash animations representing a real lab experiment with varying input and output
+>* source code at [GitHub / amrita](https://github.com/CreateAmrita)
 
 #### More scientific computing with python
 
@@ -644,6 +653,182 @@ formulated using DAEs."
 * [avaudrey/IAPWSPy](https://github.com/avaudrey/IAPWSPy)
 > IAPWSPy is a python package that allows to manipulate thermophysical properties of water, thanks to the IAPWS-95 ([International Association for the Properties of Water and Steam](http://www.iapws.org/)) experimental correlations. All correlations are currently based on the saturated properties of water and package allow to draw some usual thermodynamical diagrams (Mollier, Clapeyron,...).
 >* see an example of usage of the code in ipynb format [here](https://github.com/avaudrey/IAPWSPy/blob/master/IAPWS_demo.ipynb).
+
+* shirtsgroup/checkensemble	https://github.com/shirtsgroup/checkensemble	This software allows users to perform statistical test to determine if a given molecular simulation is consistent with the thermodynamic ensemble it is performed in.	"M. R. Simple Quantitative Tests to Validate Sampling from Thermodynamic Ensembles", J. Chem. Theory Comput., 2013, 9 (2), pp 909–926, http://dx.doi.org/10.1021/ct300688p	python	"samplecode;
+python;"	opensource;	molecularsimulation;
+
+* arattner1/superThermo	https://github.com/arattner1/superThermo	Supercritical fluid thermodynamic and transport properties for OpenFOAM	no README.md	c++	"samplecode;
+poordoc;"	opensource;	"eos;
+thermodynamicproperties;"
+
+* donald-pinckney/Ideal-Gas-Simulator	https://github.com/donald-pinckney/Ideal-Gas-Simulator	An app to simulate at a kinematic level molecules in an idea gas, and explore thermodynamic properties of the gas.	swift - programming for iOS	swift	"samplecode;
+swift;"	opensource;	statisticalthermodynamics
+
+
+* riddalion/gas_turbine	https://github.com/riddalion/gas_turbine	MATLAB codes for thermodynamic analysis of gas turbine cycles.	the matlab compatible files here were developed for thermodynamic analysis of gas turbine cycles. 	matlab	"samplecode;
+matlab;
+poordoc;"	opensource;	engine
+
+* jeffgoms/Thermodynamics	https://github.com/jeffgoms/Thermodynamics	Thermodynamics Models and Codes	python; Peng-Robinson; VLE; drafty	python;	"samplecode;
+python;"	opensource	"phaseequilibria;
+eos;
+thermodynamicproperties;"
+
+* julionaojulho/thermodynamics	https://github.com/julionaojulho/thermodynamics/	thermodynamics exercises	"some pdfs;
+some ipynb;
+uses CoolProp;"	"coolprop;
+python;
+jupyter;"	"samplecode;
+python;
+jupyter;"	opensource;	"phaseequilibria;
+eos;
+thermodynamicproperties;"
+
+* arthursoprano/thermodynamics-notebook		A series of ipython notebooks with thermodynamic models for multiphase and multicomponent systems.	welldoc	"python;
+jupyter;"	"coursecode;
+samplecode;"	opensource;	"phaseequilibria;
+eos;
+thermodynamicproperties;"
+
+* Gabriel-MS/VLE_multi		Projeto para criação de programa para cálculo de equilíbrio líquido-vapor de misturas multicomponentes utilizando álgebra linear	"  * huron vidal
+* CPA
+* VLE"	c++	"samplecode;
+nonenglish;"	opensource;	"phaseequilibria;
+eos;
+thermodynamicproperties;"
+
+* kjetilbs/Advanced_thermodynamics	x	Using Redlich-Kwong equation of state to calculate vapor-liquid equilibria for natural gas mixture	Using Redlich-Kwong equation of state to calculate vapor-liquid equilibria for natural gas mixture. Julia is used as the programming language for the implementation.	julia	"samplecode;
+julia;"	opensource;	"phaseequilibria;
+eos;
+thermodynamicproperties;"
+
+* simulkade/JPVT.jl	x	"Practical phase equilibrium written in Julia;
+An educational PVT code written in Julia"	x	x	"coursecode;
+samplecode;
+julia"	opensource;	"phaseequilibria;
+eos;
+thermodynamicproperties;"
+
+* jrmuller00/thermopynamics	x	Python based thermodynamic fluid properties	pyproject	x	"samplecode;
+python;"	opensource;	thermodynamicproperties;
+KSTU/critprop	x	Calculate critical properties from phase equilibrium	x	C	"samplecode;
+C;"	opensource;	"phaseequilibria;
+thermodynamicproperties;"
+
+* djsatok/phase-equilibrium-article	x	This is a repo for phase equilibrium article	x	matlab	"nonenglish;
+samplecode;
+matlab;"	opensource;	phaseequilibria;
+
+* edwardthomas/phase-equilibria-software	x	phase-equilibria-software-project	"c++
+psat
+eos"	c++	"samplecode;
+c++;"	opensource;	"phaseequilibria;
+eos;
+thermodynamicproperties;"
+
+* peberts/Phase-Equilibria-Error-Propagation	x	Calculates the error associated with the analysis of phase equilibria between carbon dioxide and Stoddard solvent.			"samplecode;
+matlab;"	opensource;	statistics
+
+* octopusinvitro/nr-thermo	x	A bunch of old C programs that use the Numerical Recipes to solve three thermodynamics problems. Learn more at http://nrthermo.tk		numerical recipes	"coursecode;
+samplecode;
+c;
+"	opensource;	"phaseequilibria;
+eos;
+thermodynamicproperties;"
+
+* jfigu010/MyApplication	x	CEE 130. Extra credit application made for UCR's Advance Thermodynamics class. It simulates midterm problems from Spring 2015	android	android	"samplecode;
+android;"	opensource;	thermodynamicproperties;
+
+* Jaime5/SmartPhysicsThermodynamics		The answers to the thermodynamics section is difficult to find, so I decided to provide my solution set and worked out examples in python code. The bonus is that you can enter in your values for numbers that are like your question and obtain the same answer instantaneously.			"coursecode;
+python;"	opensource;	thermodynamics
+
+
+* bltsandwich1/OctaveSolutionsToThermodynamics	x	Solutions to Thermodynamics HW done in OCTAVE	poordoc		"samplecode;
+octave;
+poordoc"	opensource;	process;
+
+* HALtheWise/modsim-thermodynamics	x	Our project was to create a simple model of a rocket engine cooling system by approximating a partial differential equation to track the temperature of the fuel at various points in the coolant loop.			"samplecode;
+matlab;
+pdf;"	opensource;	"combustion;
+heattransfer;"
+
+* jeffwdoak/free_energies	x	Python scripts to create various mixing-model thermodynamics from T=0 K energies as well as finite-T thermodynamic properties.	"* Phase class has the following attributes:
+>* E - zero Kelvin DFT energy (meV/atom)
+>* c - composition (currently assumed to be pseudobinary between 0 and 1)
+>* T - temperature (K)
+>* E_vib - vibrational energy (meV/atom)
+>* E_ZP - vibrational zero-point energy (meV/atom)
+>* E_0 - zero Kelvin DFT energy + zero-point energy (meV/atom)
+>* E_thermal - vibrational energy - zero-point energy (meV/atom)
+>* S_vib - vibrational entropy (meV/K/atom)
+>* C_V - heat capacity at constant volume (meV/K/atom)
+>* F - Helmholtz free energy including vibrations (meV/atom)
+* The vibrational thermodynamic data can be read in from an output file of the gamma-point frozen phonon code GoBaby written by Vidvus Ozolins at UCLA."		"samplecode;
+poordoc;"		statisticalthermodynamics
+
+* JoshMayberry/ME342Final		Solves all Thermodynamics problems. This was my final for my Numerical methods 2 class (ME342).			"samplecode;
+draft;"		
+
+* Dragoni-Daniele/Electronic_Thermodynamics		Thermodynamic and thermoelastic quantities from electronic contribution to the total free energy of a metal		python	samplecode;	opensource	abinitio(?);
+
+* ZanderFick/CSS-Thermodynamics		CSS Thermodynamics Code	"* python
+* draft
+* van der waals, VLE, Psat,"		"samplecode;
+python;"	opensource	"phaseequilibria;
+eos;
+thermodynamicproperties;"
+
+* jhyates/mae221		Python with Pithy for Princeton's MAE 221 Thermodynamics	"* uses CoolProp
+The script 'jhyates_finalproject' simulates the power plant, with thirteen initial input states (two temperatures, seven pressures, and four mass flow fractions). It calculates thermodynamic properties and the conomic feasibility of such a plant, based on assumptions made in class. It also yields three plots: T-s (Entropy vs. Temperature), P-v (Specific Volume vs. Pressure), and P-h (Enthalpy vs. Pressure) diagrams for the various states of the water control volume within the power plant cycle. The script 'jhyates_fdpfunction' has similar functionality in that it calculates the thermodynamic properties of the given power plant cycle, but is meant to see the sensitivity of those properties to varying inputs. It's much more rough; you have to get in there and modify the input variables and the ranges over which they can vary in value manually. However, it did its job for the assignment. The script produces plots of heat transfer in and out of the cycle, work into the cycle, and the thermal efficiency and backwork ratio of the cycle. A set of these plots for the current set of inputs, for the interested, is located at http://imgur.com/a/HmfQd."	CoolProp	"samplecode;
+python;"	opensource	process
+
+* bbchen/BurnCore		BurnCore is a library for modeling core thermodynamics and thermoelasticity constrained by mineral physics experiments.	"* small python
+ Birch-Murnaghan equation of state"		"samplecode;
+python;"	opensource	metallurgy
+
+* crockettcobb/ThermoPhysical		Code adapted from ThermoPhysical Properties of Fluids text by M Assael, J Martin Trusler, and T Tsolakis			"coursecode;
+samplecode;
+python"	opensource;	thermodynamics
+
+* jfchessa/TP-Props		Fortran 90 routines for calculating thermophysical properties of cryogenic rocket fuels			"samplecode;
+poordoc;
+fortran;"	opensource;	combustion
+
+* montoyjh/hori		Hori package for electrochemical thermodynamics and free energy diagrams			"samplecode;
+poordoc;
+python;"	opensource;	chemicalreaction;
+
+* mwalawender/Termodynamika		Program developed in group to solve thermodynamics task.			"samplecode;
+poordoc;
+java;"	opensource;	thermodynamics
+
+* jasminks/PHYS341		Any codes I used for homework for PHYS341 (thermodynamics)			"samplecode;
+poordoc;
+python;"	opensource;	thermodynamics
+
+* gajo357/CERE_Flash		Code from the Advanced Thermodynamics course from CERE	"* PROGRAM CERECourse, EOS. 0 = SRK, 1 = PR, 2 = PR78,
+ CALL PTFLASH(NCA, Z, P, T, BETA, X, Y, NITER, IER)"		"samplecode;
+fortran;"	opensource;	"phaseequilibria;
+eos;
+thermodynamicproperties;"
+
+* fdelia/mdatom		Simulation in thermodynamics to compute certain distributions, ETH	MD with Coupling to External Bath		"nonenglish;
+samplecode"	opensource;	molecularsimulation;
+
+* BrendonOSullivan/EquilibriumCalculator		A javascript calculator for Equilibrium Thermodynamics	".js
+ The <b>Equilibrium.js</b> library offers two complementary algorithms for calculating the equilibrium composition of chemical systems:"		"software;
+samplecode;
+js"	opensource;	chemicalreaction;
+
+* mihirparadkar/bee2220		Browser code for BEE2220 Thermodynamics	html source to call CoolProp	CoolProp	"samplecode;
+html;"	opensource;	thermodynamicproperties
+
+* FanaticalFighter/brayton-cycle		Software to simulate the brayton cycle. Made for IC-142 Engineering Thermodynamics in IIT Mandi.			"samplecode;
+c;
+python"	opensource;	thermodynamics
+
+* gmckercher/TTU		Thermodynamics Coding at TTU	ipynb		"samplecode;
+jupyter;"	opensource;	atmospheric
 
 # inspirations
 * https://github.com/rossant/awesome-math
