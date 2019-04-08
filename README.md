@@ -645,6 +645,14 @@ formulated using DAEs."
  >
  > Source code at uni-stuttgart, see [here](http://dumux.org/download.php)
 
+|[Reaktoro](https://reaktoro.org/)|<img src=FIGs/reaktoro-header.png height=50>|
+|---|---|
+ >**Reaktoro: a unified framework for modeling chemically reactive systems**
+ >
+ > Reaktoro is a computational framework developed in C++ and Python that implements numerical methods for modeling chemically reactive processes governed by either chemical equilibrium, chemical kinetics, or a combination of both.
+
+ > Source code available at [GitHub](https://github.com/reaktoro/reaktoro)
+
 ## Books
 
 ### Recommended / Best reviewed
