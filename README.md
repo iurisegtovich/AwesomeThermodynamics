@@ -653,6 +653,22 @@ formulated using DAEs."
 
  > Source code available at [GitHub](https://github.com/reaktoro/reaktoro)
 
+|[PHREEQC](https://www.usgs.gov/software/phreeqc-version-3/)|<img src=FIGs/PHREEQC-chemical-waves.jpg height=50>|
+|---|---|
+ >**PHREEQC Version 3**
+ >
+ > PHREEQC Version 3 is a computer program written in the C++ programming language that is designed to perform a wide variety of aqueous geochemical calculations. PHREEQC implements several types of aqueous models including two ion-association aqueous models.
+
+ > Source code available at [USGS' website](https://www.usgs.gov/software/phreeqc-version-3/)
+
+|[ThermoFun](https://thermohub.org/)|<img src=FIGs/thermofun_logo.png height=50>|
+|---|---|
+ >**ThermoFun**
+ >
+ > ThermoFun is a universal open-source client that delivers thermodynamic properties of substances and reactions at the temperature and pressure of interest.
+
+ > Source code available at [Bitbucket](https://bitbucket.org/gems4/thermofun/src/master/)
+
 ## Books
 
 ### Recommended / Best reviewed
