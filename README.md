@@ -402,19 +402,18 @@ The thermodynamic models behavior of mixtures of state equations based hydrocarb
 * Caleb Bell [@GitHub](https://github.com/CalebBell), [@LinkedIn](https://ca.linkedin.com/in/caleb-bell-b678a5b6/)
 
   * [chedl](https://github.com/CalebBell/chedl) - Chemical Engineering Design Library (ChEDL)
-  > "quote"
 
-   * [thermo](https://github.com/CalebBell/thermo) - Chemical properties component of Chemical Engineering Design Library (ChEDL)
-> "Thermo is open-source software for engineers, scientists, technicians and anyone trying to understand the universe in more detail. It facilitates the retrieval of constants of chemicals, the calculation of temperature and pressure dependent chemical properties (both thermodynamic and transport), the calculation of the same for chemical mixtures (including phase equilibria), and assorted information of a regulatory or legal nature about chemicals."
+  * [thermo](https://github.com/CalebBell/thermo) - Chemical properties component of Chemical Engineering Design Library (ChEDL)
+  > "Thermo is open-source software for engineers, scientists, technicians and anyone trying to understand the universe in more detail. It facilitates the retrieval of constants of chemicals, the calculation of temperature and pressure dependent chemical properties (both thermodynamic and transport), the calculation of the same for chemical mixtures (including phase equilibria), and assorted information of a regulatory or legal nature about chemicals."
 
-    * [fpi](https://github.com/CalebBell/fpi) - Fluid-particle Interaction component of Chemical Engineering Design Library (ChEDL)
-    > "quote"
+  * [fpi](https://github.com/CalebBell/fpi) - Fluid-particle Interaction component of Chemical Engineering Design Library (ChEDL)
+  > "fpi is open-source software for engineers and technicians working in the fields of chemical or mechanical engineering. It includes modules for various fluid-particle interaction calculations. The fpi library depends on the SciPy library to provide numerical constants, interpolation, integration, and numerical solving functionality. fpi runs on all operating systems which support Python, is quick to install, and is free of charge. fpi is designed to be easy to use while still providing powerful functionality. If you need to perform some fpi calculations, give fpi a try."
 
-    * [ht](https://github.com/CalebBell/ht) - Heat transfer component of Chemical Engineering Design Library (ChEDL)
-    > "quote"
+  * [ht](https://github.com/CalebBell/ht) - Heat transfer component of Chemical Engineering Design Library (ChEDL)
+  > "ht is open-source software for engineers and technicians working in the fields of chemical or mechanical engineering. It includes modules for various heat transfer functions."
 
-    * [fluids](https://github.com/CalebBell/fluids) - Fluid dynamics component of Chemical Engineering Design Library (ChEDL)
-    > "quote"
+  * [fluids](https://github.com/CalebBell/fluids) - Fluid dynamics component of Chemical Engineering Design Library (ChEDL)
+  > "Fluids is open-source software for engineers and technicians working in the fields of chemical, mechanical, or civil engineering. It includes modules for piping, fittings, pumps, tanks, compressible flow, open-channel flow, and more."
 
 |[Cantera](http://cantera.github.io/docs/sphinx/html/index.html#)|<img src=FIGs/cantera-logo.png height=50>|
 |---|---|
