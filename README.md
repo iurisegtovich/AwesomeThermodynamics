@@ -38,7 +38,7 @@ A curated list of awesome resources on Thermodynamics
 > **CO-LaN is the organization for the management of the CAPE-OPEN standard**
 >
 
-|[CERE](http://www.cere.dtu.dk/)|<img src=FIGs/dtu-logo.png height=50><img src=FIGs/cere-logo.png height=50>|
+|[CERE](http://www.cere.dtu.dk/)|<img src=FIGs/dtu-logo.png height=50><img src=FIGs/CERE-logo.png height=50>|
 |---|---|
 >**TECHNICAL UNIVERSITY OF DENMARK - Center for Energy Resources Engineering**
 
@@ -270,7 +270,7 @@ The IndissPlus platform which integrates multi- referenced high fidelity simulat
 >
 > See [Reaction Design](http://www.reactiondesign.com/)
 
-|[VMG](http://www.virtualmaterials.com/)|<img src=FIGs/vmg-logo.png height=50>|
+|[VMG](http://www.virtualmaterials.com/)|<img src=FIGs/VMG-logo.png height=50>|
 |---|---|
 >**VMG**
 > VMG is a worldwide team of engineers and experts in process simulation software for the oil and gas industry.
@@ -562,7 +562,7 @@ ClaRa, developed by TLK and XRG Simulation, is an open source software library o
   >
   > Source at [GitHub / DANA-Laboratory](https://github.com/DANA-Laboratory/ThermodynamicsTable.jl)
 
-|[BurnMan](http://www.burnman.org/)|<img src=FIGs/burnman-logo.png height=50>|
+|[BurnMan](http://www.burnman.org/)|<img src=FIGs/BurnMan-logo.png height=50>|
 |---|---|
 >	BurnMan is a library for modeling mantle thermodynamics and thermoelasticity constrained by mineral physics experiments. A Python library for generating thermodynamic and thermoelastic models of planetary interiors.
 >
@@ -597,7 +597,7 @@ ClaRa, developed by TLK and XRG Simulation, is an open source software library o
 >
 > source code at [GitHub / PyCalPhad](https://github.com/pycalphad/pycalphad)
 
-|             |<img src=FIGs/opencalphad-logo.png height=50>|
+|             |<img src=FIGs/openCalPhad-logo.png height=50>|
 |---|---|
 
 > "OpenCalphad is an informal international collaboration of scientists and researchers interested in the development of high quality software and databases for thermodynamic calculations for all kinds of applications.
